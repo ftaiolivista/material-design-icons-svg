@@ -237,12 +237,12 @@ glob(
                     '$svgSecondary: 0.54 !default;\n' +
                     '$svgDisabled: 0.37 !default;\n' +
                     '$svgDivider: 0.08 !default;\n' +
-                    '.mdsvg { opacity: $svgPrimary, font: 0/0 a; display: inline-block; vertical-align: super; background-color: transparent; fill: currentColor; width: $svgSize; height: $svgSize; line-height: $svgSize;}\n' +
-                    '.mdsvg.reverse { filter: invert(1) }\n' +
-                    '.mdsvg.primary { opacity: $svgPrimary }\n' +
-                    '.mdsvg.secondary { opacity: $svgSecondary }\n' +
-                    '.mdsvg.disabled { opacity: $svgDisabled }\n' +
-                    '.mdsvg.divider { opacity: $svgDivider }\n' +
+                    '.mdsvg { opacity: $svgPrimary; font: 0/0 a; display: inline-block; vertical-align: super; background-color: transparent; fill: currentColor; width: $svgSize; height: $svgSize; line-height: $svgSize;}\n' +
+                    '.mdsvg.reverse { filter: invert(1); }\n' +
+                    '.mdsvg.primary { opacity: $svgPrimary; }\n' +
+                    '.mdsvg.secondary { opacity: $svgSecondary; }\n' +
+                    '.mdsvg.disabled { opacity: $svgDisabled; }\n' +
+                    '.mdsvg.divider { opacity: $svgDivider; }\n' +
                     '.mdsvg {\n' +
                     symbols.join('') +
                     '\n}\n'

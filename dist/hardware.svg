@@ -49,8 +49,8 @@
 <view id="cast-view" viewBox="0 0 48 48" />
 <view id="cast_connected-view" viewBox="0 96 48 48" />
 <view id="computer-view" viewBox="0 48 48 48" />
-<view id="desktop_mac-view" viewBox="0 144 48 48" />
-<view id="desktop_windows-view" viewBox="0 192 48 48" />
+<view id="desktop_mac-view" viewBox="0 192 48 48" />
+<view id="desktop_windows-view" viewBox="0 144 48 48" />
 <view id="developer_board-view" viewBox="0 240 48 48" />
 <view id="devices_other-view" viewBox="0 288 48 48" />
 <view id="dock-view" viewBox="0 336 48 48" />
@@ -65,8 +65,8 @@
 <view id="keyboard_backspace-view" viewBox="0 768 48 48" />
 <view id="keyboard_capslock-view" viewBox="0 816 48 48" />
 <view id="keyboard_hide-view" viewBox="0 864 48 48" />
-<view id="keyboard_return-view" viewBox="0 912 48 48" />
-<view id="keyboard_tab-view" viewBox="0 960 48 48" />
+<view id="keyboard_return-view" viewBox="0 960 48 48" />
+<view id="keyboard_tab-view" viewBox="0 912 48 48" />
 <view id="keyboard_voice-view" viewBox="0 1008 48 48" />
 <view id="laptop-view" viewBox="0 1056 48 48" />
 <view id="laptop_chromebook-view" viewBox="0 1104 48 48" />
@@ -96,8 +96,8 @@
 <use xlink:href="#cast" width="48" height="48" x="0" y="0"></use>
 <use xlink:href="#cast_connected" width="48" height="48" x="0" y="96"></use>
 <use xlink:href="#computer" width="48" height="48" x="0" y="48"></use>
-<use xlink:href="#desktop_mac" width="48" height="48" x="0" y="144"></use>
-<use xlink:href="#desktop_windows" width="48" height="48" x="0" y="192"></use>
+<use xlink:href="#desktop_mac" width="48" height="48" x="0" y="192"></use>
+<use xlink:href="#desktop_windows" width="48" height="48" x="0" y="144"></use>
 <use xlink:href="#developer_board" width="48" height="48" x="0" y="240"></use>
 <use xlink:href="#devices_other" width="48" height="48" x="0" y="288"></use>
 <use xlink:href="#dock" width="48" height="48" x="0" y="336"></use>
@@ -112,8 +112,8 @@
 <use xlink:href="#keyboard_backspace" width="48" height="48" x="0" y="768"></use>
 <use xlink:href="#keyboard_capslock" width="48" height="48" x="0" y="816"></use>
 <use xlink:href="#keyboard_hide" width="48" height="48" x="0" y="864"></use>
-<use xlink:href="#keyboard_return" width="48" height="48" x="0" y="912"></use>
-<use xlink:href="#keyboard_tab" width="48" height="48" x="0" y="960"></use>
+<use xlink:href="#keyboard_return" width="48" height="48" x="0" y="960"></use>
+<use xlink:href="#keyboard_tab" width="48" height="48" x="0" y="912"></use>
 <use xlink:href="#keyboard_voice" width="48" height="48" x="0" y="1008"></use>
 <use xlink:href="#laptop" width="48" height="48" x="0" y="1056"></use>
 <use xlink:href="#laptop_chromebook" width="48" height="48" x="0" y="1104"></use>

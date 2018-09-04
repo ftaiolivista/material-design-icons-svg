@@ -43,13 +43,13 @@
 <view id="add_box-view" viewBox="0 48 48 48" />
 <view id="add_circle-view" viewBox="0 96 48 48" />
 <view id="add_circle_outline-view" viewBox="0 144 48 48" />
-<view id="archive-view" viewBox="0 384 48 48" />
-<view id="backspace-view" viewBox="0 192 48 48" />
-<view id="block-view" viewBox="0 240 48 48" />
-<view id="clear-view" viewBox="0 288 48 48" />
-<view id="content_copy-view" viewBox="0 336 48 48" />
-<view id="content_cut-view" viewBox="0 432 48 48" />
-<view id="content_paste-view" viewBox="0 480 48 48" />
+<view id="archive-view" viewBox="0 192 48 48" />
+<view id="backspace-view" viewBox="0 240 48 48" />
+<view id="block-view" viewBox="0 288 48 48" />
+<view id="clear-view" viewBox="0 336 48 48" />
+<view id="content_copy-view" viewBox="0 384 48 48" />
+<view id="content_cut-view" viewBox="0 480 48 48" />
+<view id="content_paste-view" viewBox="0 432 48 48" />
 <view id="create-view" viewBox="0 528 48 48" />
 <view id="delete_sweep-view" viewBox="0 576 48 48" />
 <view id="drafts-view" viewBox="0 624 48 48" />
@@ -74,22 +74,22 @@
 <view id="save-view" viewBox="0 1536 48 48" />
 <view id="select_all-view" viewBox="0 1584 48 48" />
 <view id="send-view" viewBox="0 1632 48 48" />
-<view id="sort-view" viewBox="0 1728 48 48" />
-<view id="text_format-view" viewBox="0 1680 48 48" />
+<view id="sort-view" viewBox="0 1680 48 48" />
+<view id="text_format-view" viewBox="0 1728 48 48" />
 <view id="unarchive-view" viewBox="0 1776 48 48" />
-<view id="undo-view" viewBox="0 1824 48 48" />
-<view id="weekend-view" viewBox="0 1872 48 48" />
+<view id="undo-view" viewBox="0 1872 48 48" />
+<view id="weekend-view" viewBox="0 1824 48 48" />
 <use xlink:href="#add" width="48" height="48" x="0" y="0"></use>
 <use xlink:href="#add_box" width="48" height="48" x="0" y="48"></use>
 <use xlink:href="#add_circle" width="48" height="48" x="0" y="96"></use>
 <use xlink:href="#add_circle_outline" width="48" height="48" x="0" y="144"></use>
-<use xlink:href="#archive" width="48" height="48" x="0" y="384"></use>
-<use xlink:href="#backspace" width="48" height="48" x="0" y="192"></use>
-<use xlink:href="#block" width="48" height="48" x="0" y="240"></use>
-<use xlink:href="#clear" width="48" height="48" x="0" y="288"></use>
-<use xlink:href="#content_copy" width="48" height="48" x="0" y="336"></use>
-<use xlink:href="#content_cut" width="48" height="48" x="0" y="432"></use>
-<use xlink:href="#content_paste" width="48" height="48" x="0" y="480"></use>
+<use xlink:href="#archive" width="48" height="48" x="0" y="192"></use>
+<use xlink:href="#backspace" width="48" height="48" x="0" y="240"></use>
+<use xlink:href="#block" width="48" height="48" x="0" y="288"></use>
+<use xlink:href="#clear" width="48" height="48" x="0" y="336"></use>
+<use xlink:href="#content_copy" width="48" height="48" x="0" y="384"></use>
+<use xlink:href="#content_cut" width="48" height="48" x="0" y="480"></use>
+<use xlink:href="#content_paste" width="48" height="48" x="0" y="432"></use>
 <use xlink:href="#create" width="48" height="48" x="0" y="528"></use>
 <use xlink:href="#delete_sweep" width="48" height="48" x="0" y="576"></use>
 <use xlink:href="#drafts" width="48" height="48" x="0" y="624"></use>
@@ -114,9 +114,9 @@
 <use xlink:href="#save" width="48" height="48" x="0" y="1536"></use>
 <use xlink:href="#select_all" width="48" height="48" x="0" y="1584"></use>
 <use xlink:href="#send" width="48" height="48" x="0" y="1632"></use>
-<use xlink:href="#sort" width="48" height="48" x="0" y="1728"></use>
-<use xlink:href="#text_format" width="48" height="48" x="0" y="1680"></use>
+<use xlink:href="#sort" width="48" height="48" x="0" y="1680"></use>
+<use xlink:href="#text_format" width="48" height="48" x="0" y="1728"></use>
 <use xlink:href="#unarchive" width="48" height="48" x="0" y="1776"></use>
-<use xlink:href="#undo" width="48" height="48" x="0" y="1824"></use>
-<use xlink:href="#weekend" width="48" height="48" x="0" y="1872"></use>
+<use xlink:href="#undo" width="48" height="48" x="0" y="1872"></use>
+<use xlink:href="#weekend" width="48" height="48" x="0" y="1824"></use>
 </svg>

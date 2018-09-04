@@ -81,78 +81,78 @@
 <view id="add_to_queue-view" viewBox="0 0 48 48" />
 <view id="airplay-view" viewBox="0 48 48 48" />
 <view id="album-view" viewBox="0 96 48 48" />
-<view id="art_track-view" viewBox="0 144 48 48" />
-<view id="av_timer-view" viewBox="0 336 48 48" />
-<view id="branding_watermark-view" viewBox="0 192 48 48" />
-<view id="call_to_action-view" viewBox="0 240 48 48" />
-<view id="closed_caption-view" viewBox="0 288 48 48" />
+<view id="art_track-view" viewBox="0 192 48 48" />
+<view id="av_timer-view" viewBox="0 144 48 48" />
+<view id="branding_watermark-view" viewBox="0 240 48 48" />
+<view id="call_to_action-view" viewBox="0 288 48 48" />
+<view id="closed_caption-view" viewBox="0 336 48 48" />
 <view id="equalizer-view" viewBox="0 384 48 48" />
 <view id="explicit-view" viewBox="0 432 48 48" />
 <view id="fast_forward-view" viewBox="0 480 48 48" />
 <view id="fast_rewind-view" viewBox="0 528 48 48" />
 <view id="featured_play_list-view" viewBox="0 576 48 48" />
 <view id="featured_video-view" viewBox="0 624 48 48" />
-<view id="fiber_dvr-view" viewBox="0 720 48 48" />
-<view id="fiber_manual_record-view" viewBox="0 672 48 48" />
+<view id="fiber_dvr-view" viewBox="0 672 48 48" />
+<view id="fiber_manual_record-view" viewBox="0 720 48 48" />
 <view id="fiber_new-view" viewBox="0 768 48 48" />
 <view id="fiber_pin-view" viewBox="0 816 48 48" />
 <view id="fiber_smart_record-view" viewBox="0 864 48 48" />
-<view id="forward_10-view" viewBox="0 1104 48 48" />
-<view id="forward_30-view" viewBox="0 1152 48 48" />
-<view id="forward_5-view" viewBox="0 912 48 48" />
-<view id="games-view" viewBox="0 960 48 48" />
-<view id="hearing-view" viewBox="0 1008 48 48" />
-<view id="high_quality-view" viewBox="0 1056 48 48" />
+<view id="forward_10-view" viewBox="0 912 48 48" />
+<view id="forward_30-view" viewBox="0 1008 48 48" />
+<view id="forward_5-view" viewBox="0 960 48 48" />
+<view id="games-view" viewBox="0 1056 48 48" />
+<view id="hearing-view" viewBox="0 1104 48 48" />
+<view id="high_quality-view" viewBox="0 1152 48 48" />
 <view id="library_add-view" viewBox="0 1200 48 48" />
-<view id="library_books-view" viewBox="0 1296 48 48" />
-<view id="library_music-view" viewBox="0 1344 48 48" />
-<view id="loop-view" viewBox="0 1248 48 48" />
+<view id="library_books-view" viewBox="0 1248 48 48" />
+<view id="library_music-view" viewBox="0 1296 48 48" />
+<view id="loop-view" viewBox="0 1344 48 48" />
 <view id="mic-view" viewBox="0 1392 48 48" />
 <view id="mic_none-view" viewBox="0 1440 48 48" />
 <view id="mic_off-view" viewBox="0 1488 48 48" />
 <view id="movie-view" viewBox="0 1584 48 48" />
-<view id="music_video-view" viewBox="0 3072 48 48" />
-<view id="new_releases-view" viewBox="0 2352 48 48" />
+<view id="music_video-view" viewBox="0 1680 48 48" />
+<view id="new_releases-view" viewBox="0 1632 48 48" />
 <view id="not_interested-view" viewBox="0 1536 48 48" />
-<view id="note-view" viewBox="0 1680 48 48" />
-<view id="pause-view" viewBox="0 1632 48 48" />
-<view id="pause_circle_filled-view" viewBox="0 1728 48 48" />
-<view id="pause_circle_outline-view" viewBox="0 1776 48 48" />
-<view id="play_arrow-view" viewBox="0 1824 48 48" />
-<view id="play_circle_filled-view" viewBox="0 1872 48 48" />
-<view id="play_circle_filled_white-view" viewBox="0 1920 48 48" />
-<view id="play_circle_outline-view" viewBox="0 1968 48 48" />
+<view id="note-view" viewBox="0 1728 48 48" />
+<view id="pause-view" viewBox="0 1776 48 48" />
+<view id="pause_circle_filled-view" viewBox="0 1824 48 48" />
+<view id="pause_circle_outline-view" viewBox="0 1872 48 48" />
+<view id="play_arrow-view" viewBox="0 1920 48 48" />
+<view id="play_circle_filled-view" viewBox="0 1968 48 48" />
+<view id="play_circle_filled_white-view" viewBox="0 2064 48 48" />
+<view id="play_circle_outline-view" viewBox="0 2112 48 48" />
 <view id="playlist_add-view" viewBox="0 2016 48 48" />
-<view id="playlist_add_check-view" viewBox="0 2064 48 48" />
-<view id="playlist_play-view" viewBox="0 2112 48 48" />
-<view id="queue-view" viewBox="0 2160 48 48" />
-<view id="queue_music-view" viewBox="0 2208 48 48" />
-<view id="queue_play_next-view" viewBox="0 2256 48 48" />
-<view id="radio-view" viewBox="0 2304 48 48" />
-<view id="recent_actors-view" viewBox="0 2400 48 48" />
-<view id="remove_from_queue-view" viewBox="0 2448 48 48" />
-<view id="repeat-view" viewBox="0 2496 48 48" />
+<view id="playlist_add_check-view" viewBox="0 2160 48 48" />
+<view id="playlist_play-view" viewBox="0 2208 48 48" />
+<view id="queue-view" viewBox="0 2304 48 48" />
+<view id="queue_music-view" viewBox="0 2256 48 48" />
+<view id="queue_play_next-view" viewBox="0 2352 48 48" />
+<view id="radio-view" viewBox="0 2400 48 48" />
+<view id="recent_actors-view" viewBox="0 2448 48 48" />
+<view id="remove_from_queue-view" viewBox="0 2496 48 48" />
+<view id="repeat-view" viewBox="0 2592 48 48" />
 <view id="repeat_one-view" viewBox="0 2544 48 48" />
-<view id="replay_10-view" viewBox="0 2592 48 48" />
-<view id="replay_30-view" viewBox="0 2640 48 48" />
-<view id="replay-view" viewBox="0 2688 48 48" />
-<view id="replay_5-view" viewBox="0 2736 48 48" />
-<view id="shuffle-view" viewBox="0 2784 48 48" />
-<view id="skip_next-view" viewBox="0 2832 48 48" />
+<view id="replay_10-view" viewBox="0 2640 48 48" />
+<view id="replay_30-view" viewBox="0 2688 48 48" />
+<view id="replay-view" viewBox="0 2736 48 48" />
+<view id="replay_5-view" viewBox="0 2784 48 48" />
+<view id="shuffle-view" viewBox="0 2832 48 48" />
+<view id="skip_next-view" viewBox="0 2880 48 48" />
 <view id="skip_previous-view" viewBox="0 2928 48 48" />
-<view id="slow_motion_video-view" viewBox="0 2880 48 48" />
-<view id="snooze-view" viewBox="0 2976 48 48" />
+<view id="slow_motion_video-view" viewBox="0 2976 48 48" />
+<view id="snooze-view" viewBox="0 3072 48 48" />
 <view id="stop-view" viewBox="0 3024 48 48" />
 <view id="subscriptions-view" viewBox="0 3120 48 48" />
 <view id="subtitles-view" viewBox="0 3168 48 48" />
 <view id="surround_sound-view" viewBox="0 3216 48 48" />
-<view id="video_call-view" viewBox="0 3312 48 48" />
-<view id="video_label-view" viewBox="0 3264 48 48" />
+<view id="video_call-view" viewBox="0 3264 48 48" />
+<view id="video_label-view" viewBox="0 3312 48 48" />
 <view id="video_library-view" viewBox="0 3360 48 48" />
 <view id="videocam-view" viewBox="0 3408 48 48" />
-<view id="videocam_off-view" viewBox="0 3456 48 48" />
-<view id="volume_down-view" viewBox="0 3504 48 48" />
-<view id="volume_mute-view" viewBox="0 3600 48 48" />
+<view id="videocam_off-view" viewBox="0 3600 48 48" />
+<view id="volume_down-view" viewBox="0 3456 48 48" />
+<view id="volume_mute-view" viewBox="0 3504 48 48" />
 <view id="volume_off-view" viewBox="0 3552 48 48" />
 <view id="volume_up-view" viewBox="0 3648 48 48" />
 <view id="web-view" viewBox="0 3696 48 48" />
@@ -160,78 +160,78 @@
 <use xlink:href="#add_to_queue" width="48" height="48" x="0" y="0"></use>
 <use xlink:href="#airplay" width="48" height="48" x="0" y="48"></use>
 <use xlink:href="#album" width="48" height="48" x="0" y="96"></use>
-<use xlink:href="#art_track" width="48" height="48" x="0" y="144"></use>
-<use xlink:href="#av_timer" width="48" height="48" x="0" y="336"></use>
-<use xlink:href="#branding_watermark" width="48" height="48" x="0" y="192"></use>
-<use xlink:href="#call_to_action" width="48" height="48" x="0" y="240"></use>
-<use xlink:href="#closed_caption" width="48" height="48" x="0" y="288"></use>
+<use xlink:href="#art_track" width="48" height="48" x="0" y="192"></use>
+<use xlink:href="#av_timer" width="48" height="48" x="0" y="144"></use>
+<use xlink:href="#branding_watermark" width="48" height="48" x="0" y="240"></use>
+<use xlink:href="#call_to_action" width="48" height="48" x="0" y="288"></use>
+<use xlink:href="#closed_caption" width="48" height="48" x="0" y="336"></use>
 <use xlink:href="#equalizer" width="48" height="48" x="0" y="384"></use>
 <use xlink:href="#explicit" width="48" height="48" x="0" y="432"></use>
 <use xlink:href="#fast_forward" width="48" height="48" x="0" y="480"></use>
 <use xlink:href="#fast_rewind" width="48" height="48" x="0" y="528"></use>
 <use xlink:href="#featured_play_list" width="48" height="48" x="0" y="576"></use>
 <use xlink:href="#featured_video" width="48" height="48" x="0" y="624"></use>
-<use xlink:href="#fiber_dvr" width="48" height="48" x="0" y="720"></use>
-<use xlink:href="#fiber_manual_record" width="48" height="48" x="0" y="672"></use>
+<use xlink:href="#fiber_dvr" width="48" height="48" x="0" y="672"></use>
+<use xlink:href="#fiber_manual_record" width="48" height="48" x="0" y="720"></use>
 <use xlink:href="#fiber_new" width="48" height="48" x="0" y="768"></use>
 <use xlink:href="#fiber_pin" width="48" height="48" x="0" y="816"></use>
 <use xlink:href="#fiber_smart_record" width="48" height="48" x="0" y="864"></use>
-<use xlink:href="#forward_10" width="48" height="48" x="0" y="1104"></use>
-<use xlink:href="#forward_30" width="48" height="48" x="0" y="1152"></use>
-<use xlink:href="#forward_5" width="48" height="48" x="0" y="912"></use>
-<use xlink:href="#games" width="48" height="48" x="0" y="960"></use>
-<use xlink:href="#hearing" width="48" height="48" x="0" y="1008"></use>
-<use xlink:href="#high_quality" width="48" height="48" x="0" y="1056"></use>
+<use xlink:href="#forward_10" width="48" height="48" x="0" y="912"></use>
+<use xlink:href="#forward_30" width="48" height="48" x="0" y="1008"></use>
+<use xlink:href="#forward_5" width="48" height="48" x="0" y="960"></use>
+<use xlink:href="#games" width="48" height="48" x="0" y="1056"></use>
+<use xlink:href="#hearing" width="48" height="48" x="0" y="1104"></use>
+<use xlink:href="#high_quality" width="48" height="48" x="0" y="1152"></use>
 <use xlink:href="#library_add" width="48" height="48" x="0" y="1200"></use>
-<use xlink:href="#library_books" width="48" height="48" x="0" y="1296"></use>
-<use xlink:href="#library_music" width="48" height="48" x="0" y="1344"></use>
-<use xlink:href="#loop" width="48" height="48" x="0" y="1248"></use>
+<use xlink:href="#library_books" width="48" height="48" x="0" y="1248"></use>
+<use xlink:href="#library_music" width="48" height="48" x="0" y="1296"></use>
+<use xlink:href="#loop" width="48" height="48" x="0" y="1344"></use>
 <use xlink:href="#mic" width="48" height="48" x="0" y="1392"></use>
 <use xlink:href="#mic_none" width="48" height="48" x="0" y="1440"></use>
 <use xlink:href="#mic_off" width="48" height="48" x="0" y="1488"></use>
 <use xlink:href="#movie" width="48" height="48" x="0" y="1584"></use>
-<use xlink:href="#music_video" width="48" height="48" x="0" y="3072"></use>
-<use xlink:href="#new_releases" width="48" height="48" x="0" y="2352"></use>
+<use xlink:href="#music_video" width="48" height="48" x="0" y="1680"></use>
+<use xlink:href="#new_releases" width="48" height="48" x="0" y="1632"></use>
 <use xlink:href="#not_interested" width="48" height="48" x="0" y="1536"></use>
-<use xlink:href="#note" width="48" height="48" x="0" y="1680"></use>
-<use xlink:href="#pause" width="48" height="48" x="0" y="1632"></use>
-<use xlink:href="#pause_circle_filled" width="48" height="48" x="0" y="1728"></use>
-<use xlink:href="#pause_circle_outline" width="48" height="48" x="0" y="1776"></use>
-<use xlink:href="#play_arrow" width="48" height="48" x="0" y="1824"></use>
-<use xlink:href="#play_circle_filled" width="48" height="48" x="0" y="1872"></use>
-<use xlink:href="#play_circle_filled_white" width="48" height="48" x="0" y="1920"></use>
-<use xlink:href="#play_circle_outline" width="48" height="48" x="0" y="1968"></use>
+<use xlink:href="#note" width="48" height="48" x="0" y="1728"></use>
+<use xlink:href="#pause" width="48" height="48" x="0" y="1776"></use>
+<use xlink:href="#pause_circle_filled" width="48" height="48" x="0" y="1824"></use>
+<use xlink:href="#pause_circle_outline" width="48" height="48" x="0" y="1872"></use>
+<use xlink:href="#play_arrow" width="48" height="48" x="0" y="1920"></use>
+<use xlink:href="#play_circle_filled" width="48" height="48" x="0" y="1968"></use>
+<use xlink:href="#play_circle_filled_white" width="48" height="48" x="0" y="2064"></use>
+<use xlink:href="#play_circle_outline" width="48" height="48" x="0" y="2112"></use>
 <use xlink:href="#playlist_add" width="48" height="48" x="0" y="2016"></use>
-<use xlink:href="#playlist_add_check" width="48" height="48" x="0" y="2064"></use>
-<use xlink:href="#playlist_play" width="48" height="48" x="0" y="2112"></use>
-<use xlink:href="#queue" width="48" height="48" x="0" y="2160"></use>
-<use xlink:href="#queue_music" width="48" height="48" x="0" y="2208"></use>
-<use xlink:href="#queue_play_next" width="48" height="48" x="0" y="2256"></use>
-<use xlink:href="#radio" width="48" height="48" x="0" y="2304"></use>
-<use xlink:href="#recent_actors" width="48" height="48" x="0" y="2400"></use>
-<use xlink:href="#remove_from_queue" width="48" height="48" x="0" y="2448"></use>
-<use xlink:href="#repeat" width="48" height="48" x="0" y="2496"></use>
+<use xlink:href="#playlist_add_check" width="48" height="48" x="0" y="2160"></use>
+<use xlink:href="#playlist_play" width="48" height="48" x="0" y="2208"></use>
+<use xlink:href="#queue" width="48" height="48" x="0" y="2304"></use>
+<use xlink:href="#queue_music" width="48" height="48" x="0" y="2256"></use>
+<use xlink:href="#queue_play_next" width="48" height="48" x="0" y="2352"></use>
+<use xlink:href="#radio" width="48" height="48" x="0" y="2400"></use>
+<use xlink:href="#recent_actors" width="48" height="48" x="0" y="2448"></use>
+<use xlink:href="#remove_from_queue" width="48" height="48" x="0" y="2496"></use>
+<use xlink:href="#repeat" width="48" height="48" x="0" y="2592"></use>
 <use xlink:href="#repeat_one" width="48" height="48" x="0" y="2544"></use>
-<use xlink:href="#replay_10" width="48" height="48" x="0" y="2592"></use>
-<use xlink:href="#replay_30" width="48" height="48" x="0" y="2640"></use>
-<use xlink:href="#replay" width="48" height="48" x="0" y="2688"></use>
-<use xlink:href="#replay_5" width="48" height="48" x="0" y="2736"></use>
-<use xlink:href="#shuffle" width="48" height="48" x="0" y="2784"></use>
-<use xlink:href="#skip_next" width="48" height="48" x="0" y="2832"></use>
+<use xlink:href="#replay_10" width="48" height="48" x="0" y="2640"></use>
+<use xlink:href="#replay_30" width="48" height="48" x="0" y="2688"></use>
+<use xlink:href="#replay" width="48" height="48" x="0" y="2736"></use>
+<use xlink:href="#replay_5" width="48" height="48" x="0" y="2784"></use>
+<use xlink:href="#shuffle" width="48" height="48" x="0" y="2832"></use>
+<use xlink:href="#skip_next" width="48" height="48" x="0" y="2880"></use>
 <use xlink:href="#skip_previous" width="48" height="48" x="0" y="2928"></use>
-<use xlink:href="#slow_motion_video" width="48" height="48" x="0" y="2880"></use>
-<use xlink:href="#snooze" width="48" height="48" x="0" y="2976"></use>
+<use xlink:href="#slow_motion_video" width="48" height="48" x="0" y="2976"></use>
+<use xlink:href="#snooze" width="48" height="48" x="0" y="3072"></use>
 <use xlink:href="#stop" width="48" height="48" x="0" y="3024"></use>
 <use xlink:href="#subscriptions" width="48" height="48" x="0" y="3120"></use>
 <use xlink:href="#subtitles" width="48" height="48" x="0" y="3168"></use>
 <use xlink:href="#surround_sound" width="48" height="48" x="0" y="3216"></use>
-<use xlink:href="#video_call" width="48" height="48" x="0" y="3312"></use>
-<use xlink:href="#video_label" width="48" height="48" x="0" y="3264"></use>
+<use xlink:href="#video_call" width="48" height="48" x="0" y="3264"></use>
+<use xlink:href="#video_label" width="48" height="48" x="0" y="3312"></use>
 <use xlink:href="#video_library" width="48" height="48" x="0" y="3360"></use>
 <use xlink:href="#videocam" width="48" height="48" x="0" y="3408"></use>
-<use xlink:href="#videocam_off" width="48" height="48" x="0" y="3456"></use>
-<use xlink:href="#volume_down" width="48" height="48" x="0" y="3504"></use>
-<use xlink:href="#volume_mute" width="48" height="48" x="0" y="3600"></use>
+<use xlink:href="#videocam_off" width="48" height="48" x="0" y="3600"></use>
+<use xlink:href="#volume_down" width="48" height="48" x="0" y="3456"></use>
+<use xlink:href="#volume_mute" width="48" height="48" x="0" y="3504"></use>
 <use xlink:href="#volume_off" width="48" height="48" x="0" y="3552"></use>
 <use xlink:href="#volume_up" width="48" height="48" x="0" y="3648"></use>
 <use xlink:href="#web" width="48" height="48" x="0" y="3696"></use>

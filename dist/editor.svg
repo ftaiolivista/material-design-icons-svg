@@ -66,17 +66,17 @@
 <symbol id="vertical_align_center"    viewBox="0 0 48 48"><path d="M16 38h6v8h4v-8h6l-8-8-8 8zm16-28h-6V2h-4v8h-6l8 8 8-8zM8 22v4h32v-4H8z"/></symbol>
 <symbol id="vertical_align_top"    viewBox="0 0 48 48"><path d="M16 22h6v20h4V22h6l-8-8-8 8zM8 6v4h32V6H8z"/></symbol>
 <symbol id="wrap_text"    viewBox="0 0 48 48"><path d="M8 38h12v-4H8v4zm32-28H8v4h32v-4zm-6 12H8v4h26.5c2.21 0 4 1.79 4 4s-1.79 4-4 4H30v-4l-6 6 6 6v-4h4c4.41 0 8-3.59 8-8s-3.59-8-8-8z"/></symbol>
-<view id="attach_file-view" viewBox="0 96 48 48" />
+<view id="attach_file-view" viewBox="0 0 48 48" />
 <view id="attach_money-view" viewBox="0 48 48 48" />
-<view id="border_all-view" viewBox="0 0 48 48" />
+<view id="border_all-view" viewBox="0 96 48 48" />
 <view id="border_bottom-view" viewBox="0 144 48 48" />
 <view id="border_clear-view" viewBox="0 192 48 48" />
-<view id="border_color-view" viewBox="0 288 48 48" />
-<view id="border_horizontal-view" viewBox="0 240 48 48" />
+<view id="border_color-view" viewBox="0 240 48 48" />
+<view id="border_horizontal-view" viewBox="0 288 48 48" />
 <view id="border_inner-view" viewBox="0 336 48 48" />
 <view id="border_left-view" viewBox="0 384 48 48" />
-<view id="border_outer-view" viewBox="0 432 48 48" />
-<view id="border_right-view" viewBox="0 480 48 48" />
+<view id="border_outer-view" viewBox="0 480 48 48" />
+<view id="border_right-view" viewBox="0 432 48 48" />
 <view id="border_style-view" viewBox="0 528 48 48" />
 <view id="border_top-view" viewBox="0 576 48 48" />
 <view id="border_vertical-view" viewBox="0 624 48 48" />
@@ -97,53 +97,53 @@
 <view id="format_line_spacing-view" viewBox="0 1344 48 48" />
 <view id="format_list_bulleted-view" viewBox="0 1392 48 48" />
 <view id="format_list_numbered-view" viewBox="0 1440 48 48" />
-<view id="format_paint-view" viewBox="0 1488 48 48" />
-<view id="format_quote-view" viewBox="0 1536 48 48" />
-<view id="format_shapes-view" viewBox="0 1584 48 48" />
-<view id="format_size-view" viewBox="0 1632 48 48" />
+<view id="format_paint-view" viewBox="0 1536 48 48" />
+<view id="format_quote-view" viewBox="0 1632 48 48" />
+<view id="format_shapes-view" viewBox="0 1488 48 48" />
+<view id="format_size-view" viewBox="0 1728 48 48" />
 <view id="format_strikethrough-view" viewBox="0 1680 48 48" />
-<view id="format_textdirection_l_to_r-view" viewBox="0 1728 48 48" />
+<view id="format_textdirection_l_to_r-view" viewBox="0 1584 48 48" />
 <view id="format_textdirection_r_to_l-view" viewBox="0 1776 48 48" />
 <view id="format_underlined-view" viewBox="0 1824 48 48" />
-<view id="functions-view" viewBox="0 1872 48 48" />
-<view id="highlight-view" viewBox="0 1920 48 48" />
-<view id="insert_chart-view" viewBox="0 1968 48 48" />
+<view id="functions-view" viewBox="0 1968 48 48" />
+<view id="highlight-view" viewBox="0 1872 48 48" />
+<view id="insert_chart-view" viewBox="0 1920 48 48" />
 <view id="insert_comment-view" viewBox="0 2016 48 48" />
 <view id="insert_drive_file-view" viewBox="0 2064 48 48" />
-<view id="insert_emoticon-view" viewBox="0 2160 48 48" />
-<view id="insert_invitation-view" viewBox="0 2208 48 48" />
-<view id="insert_link-view" viewBox="0 2112 48 48" />
-<view id="insert_photo-view" viewBox="0 3120 48 48" />
-<view id="linear_scale-view" viewBox="0 2256 48 48" />
-<view id="merge_type-view" viewBox="0 2304 48 48" />
-<view id="mode_comment-view" viewBox="0 2352 48 48" />
-<view id="mode_edit-view" viewBox="0 2448 48 48" />
-<view id="monetization_on-view" viewBox="0 2400 48 48" />
-<view id="multiline_chart-view" viewBox="0 2496 48 48" />
-<view id="pie_chart-view" viewBox="0 2544 48 48" />
+<view id="insert_emoticon-view" viewBox="0 2112 48 48" />
+<view id="insert_invitation-view" viewBox="0 2160 48 48" />
+<view id="insert_link-view" viewBox="0 2208 48 48" />
+<view id="insert_photo-view" viewBox="0 2256 48 48" />
+<view id="linear_scale-view" viewBox="0 2304 48 48" />
+<view id="merge_type-view" viewBox="0 2352 48 48" />
+<view id="mode_comment-view" viewBox="0 2400 48 48" />
+<view id="mode_edit-view" viewBox="0 2496 48 48" />
+<view id="monetization_on-view" viewBox="0 2448 48 48" />
+<view id="multiline_chart-view" viewBox="0 2544 48 48" />
+<view id="pie_chart-view" viewBox="0 2592 48 48" />
 <view id="pie_chart_outlined-view" viewBox="0 2640 48 48" />
-<view id="publish-view" viewBox="0 2592 48 48" />
-<view id="short_text-view" viewBox="0 2688 48 48" />
-<view id="show_chart-view" viewBox="0 2736 48 48" />
-<view id="space_bar-view" viewBox="0 2832 48 48" />
-<view id="strikethrough_s-view" viewBox="0 2784 48 48" />
-<view id="text_fields-view" viewBox="0 2880 48 48" />
-<view id="title-view" viewBox="0 2928 48 48" />
-<view id="vertical_align_bottom-view" viewBox="0 2976 48 48" />
-<view id="vertical_align_center-view" viewBox="0 3072 48 48" />
-<view id="vertical_align_top-view" viewBox="0 3024 48 48" />
+<view id="publish-view" viewBox="0 2688 48 48" />
+<view id="short_text-view" viewBox="0 2736 48 48" />
+<view id="show_chart-view" viewBox="0 2880 48 48" />
+<view id="space_bar-view" viewBox="0 2784 48 48" />
+<view id="strikethrough_s-view" viewBox="0 2832 48 48" />
+<view id="text_fields-view" viewBox="0 2928 48 48" />
+<view id="title-view" viewBox="0 2976 48 48" />
+<view id="vertical_align_bottom-view" viewBox="0 3024 48 48" />
+<view id="vertical_align_center-view" viewBox="0 3120 48 48" />
+<view id="vertical_align_top-view" viewBox="0 3072 48 48" />
 <view id="wrap_text-view" viewBox="0 3168 48 48" />
-<use xlink:href="#attach_file" width="48" height="48" x="0" y="96"></use>
+<use xlink:href="#attach_file" width="48" height="48" x="0" y="0"></use>
 <use xlink:href="#attach_money" width="48" height="48" x="0" y="48"></use>
-<use xlink:href="#border_all" width="48" height="48" x="0" y="0"></use>
+<use xlink:href="#border_all" width="48" height="48" x="0" y="96"></use>
 <use xlink:href="#border_bottom" width="48" height="48" x="0" y="144"></use>
 <use xlink:href="#border_clear" width="48" height="48" x="0" y="192"></use>
-<use xlink:href="#border_color" width="48" height="48" x="0" y="288"></use>
-<use xlink:href="#border_horizontal" width="48" height="48" x="0" y="240"></use>
+<use xlink:href="#border_color" width="48" height="48" x="0" y="240"></use>
+<use xlink:href="#border_horizontal" width="48" height="48" x="0" y="288"></use>
 <use xlink:href="#border_inner" width="48" height="48" x="0" y="336"></use>
 <use xlink:href="#border_left" width="48" height="48" x="0" y="384"></use>
-<use xlink:href="#border_outer" width="48" height="48" x="0" y="432"></use>
-<use xlink:href="#border_right" width="48" height="48" x="0" y="480"></use>
+<use xlink:href="#border_outer" width="48" height="48" x="0" y="480"></use>
+<use xlink:href="#border_right" width="48" height="48" x="0" y="432"></use>
 <use xlink:href="#border_style" width="48" height="48" x="0" y="528"></use>
 <use xlink:href="#border_top" width="48" height="48" x="0" y="576"></use>
 <use xlink:href="#border_vertical" width="48" height="48" x="0" y="624"></use>
@@ -164,40 +164,40 @@
 <use xlink:href="#format_line_spacing" width="48" height="48" x="0" y="1344"></use>
 <use xlink:href="#format_list_bulleted" width="48" height="48" x="0" y="1392"></use>
 <use xlink:href="#format_list_numbered" width="48" height="48" x="0" y="1440"></use>
-<use xlink:href="#format_paint" width="48" height="48" x="0" y="1488"></use>
-<use xlink:href="#format_quote" width="48" height="48" x="0" y="1536"></use>
-<use xlink:href="#format_shapes" width="48" height="48" x="0" y="1584"></use>
-<use xlink:href="#format_size" width="48" height="48" x="0" y="1632"></use>
+<use xlink:href="#format_paint" width="48" height="48" x="0" y="1536"></use>
+<use xlink:href="#format_quote" width="48" height="48" x="0" y="1632"></use>
+<use xlink:href="#format_shapes" width="48" height="48" x="0" y="1488"></use>
+<use xlink:href="#format_size" width="48" height="48" x="0" y="1728"></use>
 <use xlink:href="#format_strikethrough" width="48" height="48" x="0" y="1680"></use>
-<use xlink:href="#format_textdirection_l_to_r" width="48" height="48" x="0" y="1728"></use>
+<use xlink:href="#format_textdirection_l_to_r" width="48" height="48" x="0" y="1584"></use>
 <use xlink:href="#format_textdirection_r_to_l" width="48" height="48" x="0" y="1776"></use>
 <use xlink:href="#format_underlined" width="48" height="48" x="0" y="1824"></use>
-<use xlink:href="#functions" width="48" height="48" x="0" y="1872"></use>
-<use xlink:href="#highlight" width="48" height="48" x="0" y="1920"></use>
-<use xlink:href="#insert_chart" width="48" height="48" x="0" y="1968"></use>
+<use xlink:href="#functions" width="48" height="48" x="0" y="1968"></use>
+<use xlink:href="#highlight" width="48" height="48" x="0" y="1872"></use>
+<use xlink:href="#insert_chart" width="48" height="48" x="0" y="1920"></use>
 <use xlink:href="#insert_comment" width="48" height="48" x="0" y="2016"></use>
 <use xlink:href="#insert_drive_file" width="48" height="48" x="0" y="2064"></use>
-<use xlink:href="#insert_emoticon" width="48" height="48" x="0" y="2160"></use>
-<use xlink:href="#insert_invitation" width="48" height="48" x="0" y="2208"></use>
-<use xlink:href="#insert_link" width="48" height="48" x="0" y="2112"></use>
-<use xlink:href="#insert_photo" width="48" height="48" x="0" y="3120"></use>
-<use xlink:href="#linear_scale" width="48" height="48" x="0" y="2256"></use>
-<use xlink:href="#merge_type" width="48" height="48" x="0" y="2304"></use>
-<use xlink:href="#mode_comment" width="48" height="48" x="0" y="2352"></use>
-<use xlink:href="#mode_edit" width="48" height="48" x="0" y="2448"></use>
-<use xlink:href="#monetization_on" width="48" height="48" x="0" y="2400"></use>
-<use xlink:href="#multiline_chart" width="48" height="48" x="0" y="2496"></use>
-<use xlink:href="#pie_chart" width="48" height="48" x="0" y="2544"></use>
+<use xlink:href="#insert_emoticon" width="48" height="48" x="0" y="2112"></use>
+<use xlink:href="#insert_invitation" width="48" height="48" x="0" y="2160"></use>
+<use xlink:href="#insert_link" width="48" height="48" x="0" y="2208"></use>
+<use xlink:href="#insert_photo" width="48" height="48" x="0" y="2256"></use>
+<use xlink:href="#linear_scale" width="48" height="48" x="0" y="2304"></use>
+<use xlink:href="#merge_type" width="48" height="48" x="0" y="2352"></use>
+<use xlink:href="#mode_comment" width="48" height="48" x="0" y="2400"></use>
+<use xlink:href="#mode_edit" width="48" height="48" x="0" y="2496"></use>
+<use xlink:href="#monetization_on" width="48" height="48" x="0" y="2448"></use>
+<use xlink:href="#multiline_chart" width="48" height="48" x="0" y="2544"></use>
+<use xlink:href="#pie_chart" width="48" height="48" x="0" y="2592"></use>
 <use xlink:href="#pie_chart_outlined" width="48" height="48" x="0" y="2640"></use>
-<use xlink:href="#publish" width="48" height="48" x="0" y="2592"></use>
-<use xlink:href="#short_text" width="48" height="48" x="0" y="2688"></use>
-<use xlink:href="#show_chart" width="48" height="48" x="0" y="2736"></use>
-<use xlink:href="#space_bar" width="48" height="48" x="0" y="2832"></use>
-<use xlink:href="#strikethrough_s" width="48" height="48" x="0" y="2784"></use>
-<use xlink:href="#text_fields" width="48" height="48" x="0" y="2880"></use>
-<use xlink:href="#title" width="48" height="48" x="0" y="2928"></use>
-<use xlink:href="#vertical_align_bottom" width="48" height="48" x="0" y="2976"></use>
-<use xlink:href="#vertical_align_center" width="48" height="48" x="0" y="3072"></use>
-<use xlink:href="#vertical_align_top" width="48" height="48" x="0" y="3024"></use>
+<use xlink:href="#publish" width="48" height="48" x="0" y="2688"></use>
+<use xlink:href="#short_text" width="48" height="48" x="0" y="2736"></use>
+<use xlink:href="#show_chart" width="48" height="48" x="0" y="2880"></use>
+<use xlink:href="#space_bar" width="48" height="48" x="0" y="2784"></use>
+<use xlink:href="#strikethrough_s" width="48" height="48" x="0" y="2832"></use>
+<use xlink:href="#text_fields" width="48" height="48" x="0" y="2928"></use>
+<use xlink:href="#title" width="48" height="48" x="0" y="2976"></use>
+<use xlink:href="#vertical_align_bottom" width="48" height="48" x="0" y="3024"></use>
+<use xlink:href="#vertical_align_center" width="48" height="48" x="0" y="3120"></use>
+<use xlink:href="#vertical_align_top" width="48" height="48" x="0" y="3072"></use>
 <use xlink:href="#wrap_text" width="48" height="48" x="0" y="3168"></use>
 </svg>

@@ -55,8 +55,8 @@
 <symbol id="wifi"    viewBox="0 0 48 48"><path d="M2 18l4 4c9.94-9.94 26.06-9.94 36 0l4-4C33.85 5.85 14.15 5.85 2 18zm16 16l6 6 6-6c-3.31-3.31-8.69-3.31-12 0zm-8-8l4 4c5.52-5.52 14.48-5.52 20 0l4-4c-7.73-7.73-20.27-7.73-28 0z"/></symbol>
 <view id="adb-view" viewBox="0 48 48 48" />
 <view id="airline_seat_flat-view" viewBox="0 0 48 48" />
-<view id="airline_seat_flat_angled-view" viewBox="0 144 48 48" />
-<view id="airline_seat_individual_suite-view" viewBox="0 96 48 48" />
+<view id="airline_seat_flat_angled-view" viewBox="0 96 48 48" />
+<view id="airline_seat_individual_suite-view" viewBox="0 144 48 48" />
 <view id="airline_seat_legroom_extra-view" viewBox="0 192 48 48" />
 <view id="airline_seat_legroom_normal-view" viewBox="0 240 48 48" />
 <view id="airline_seat_legroom_reduced-view" viewBox="0 288 48 48" />
@@ -76,12 +76,12 @@
 <view id="event_note-view" viewBox="0 960 48 48" />
 <view id="folder_special-view" viewBox="0 1008 48 48" />
 <view id="live_tv-view" viewBox="0 1056 48 48" />
-<view id="mms-view" viewBox="0 1104 48 48" />
-<view id="more-view" viewBox="0 1152 48 48" />
+<view id="mms-view" viewBox="0 1152 48 48" />
+<view id="more-view" viewBox="0 1104 48 48" />
 <view id="network_check-view" viewBox="0 1200 48 48" />
 <view id="network_locked-view" viewBox="0 1248 48 48" />
-<view id="no_encryption-view" viewBox="0 1344 48 48" />
-<view id="ondemand_video-view" viewBox="0 1296 48 48" />
+<view id="no_encryption-view" viewBox="0 1296 48 48" />
+<view id="ondemand_video-view" viewBox="0 1344 48 48" />
 <view id="personal_video-view" viewBox="0 1392 48 48" />
 <view id="phone_bluetooth_speaker-view" viewBox="0 1440 48 48" />
 <view id="phone_forwarded-view" viewBox="0 1488 48 48" />
@@ -109,8 +109,8 @@
 <view id="wifi-view" viewBox="0 2544 48 48" />
 <use xlink:href="#adb" width="48" height="48" x="0" y="48"></use>
 <use xlink:href="#airline_seat_flat" width="48" height="48" x="0" y="0"></use>
-<use xlink:href="#airline_seat_flat_angled" width="48" height="48" x="0" y="144"></use>
-<use xlink:href="#airline_seat_individual_suite" width="48" height="48" x="0" y="96"></use>
+<use xlink:href="#airline_seat_flat_angled" width="48" height="48" x="0" y="96"></use>
+<use xlink:href="#airline_seat_individual_suite" width="48" height="48" x="0" y="144"></use>
 <use xlink:href="#airline_seat_legroom_extra" width="48" height="48" x="0" y="192"></use>
 <use xlink:href="#airline_seat_legroom_normal" width="48" height="48" x="0" y="240"></use>
 <use xlink:href="#airline_seat_legroom_reduced" width="48" height="48" x="0" y="288"></use>
@@ -130,12 +130,12 @@
 <use xlink:href="#event_note" width="48" height="48" x="0" y="960"></use>
 <use xlink:href="#folder_special" width="48" height="48" x="0" y="1008"></use>
 <use xlink:href="#live_tv" width="48" height="48" x="0" y="1056"></use>
-<use xlink:href="#mms" width="48" height="48" x="0" y="1104"></use>
-<use xlink:href="#more" width="48" height="48" x="0" y="1152"></use>
+<use xlink:href="#mms" width="48" height="48" x="0" y="1152"></use>
+<use xlink:href="#more" width="48" height="48" x="0" y="1104"></use>
 <use xlink:href="#network_check" width="48" height="48" x="0" y="1200"></use>
 <use xlink:href="#network_locked" width="48" height="48" x="0" y="1248"></use>
-<use xlink:href="#no_encryption" width="48" height="48" x="0" y="1344"></use>
-<use xlink:href="#ondemand_video" width="48" height="48" x="0" y="1296"></use>
+<use xlink:href="#no_encryption" width="48" height="48" x="0" y="1296"></use>
+<use xlink:href="#ondemand_video" width="48" height="48" x="0" y="1344"></use>
 <use xlink:href="#personal_video" width="48" height="48" x="0" y="1392"></use>
 <use xlink:href="#phone_bluetooth_speaker" width="48" height="48" x="0" y="1440"></use>
 <use xlink:href="#phone_forwarded" width="48" height="48" x="0" y="1488"></use>

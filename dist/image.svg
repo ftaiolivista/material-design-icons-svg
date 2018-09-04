@@ -166,8 +166,8 @@
 <view id="brightness_5-view" viewBox="0 672 48 48" />
 <view id="brightness_6-view" viewBox="0 720 48 48" />
 <view id="brightness_7-view" viewBox="0 768 48 48" />
-<view id="broken_image-view" viewBox="0 816 48 48" />
-<view id="brush-view" viewBox="0 864 48 48" />
+<view id="broken_image-view" viewBox="0 864 48 48" />
+<view id="brush-view" viewBox="0 816 48 48" />
 <view id="burst_mode-view" viewBox="0 912 48 48" />
 <view id="camera-view" viewBox="0 960 48 48" />
 <view id="camera_alt-view" viewBox="0 1008 48 48" />
@@ -182,8 +182,8 @@
 <view id="compare-view" viewBox="0 1440 48 48" />
 <view id="control_point-view" viewBox="0 1488 48 48" />
 <view id="control_point_duplicate-view" viewBox="0 1536 48 48" />
-<view id="crop_16_9-view" viewBox="0 1632 48 48" />
-<view id="crop_3_2-view" viewBox="0 1584 48 48" />
+<view id="crop_16_9-view" viewBox="0 1584 48 48" />
+<view id="crop_3_2-view" viewBox="0 1632 48 48" />
 <view id="crop-view" viewBox="0 1680 48 48" />
 <view id="crop_5_4-view" viewBox="0 1728 48 48" />
 <view id="crop_7_5-view" viewBox="0 1776 48 48" />
@@ -238,13 +238,13 @@
 <view id="healing-view" viewBox="0 4128 48 48" />
 <view id="image-view" viewBox="0 4176 48 48" />
 <view id="image_aspect_ratio-view" viewBox="0 4224 48 48" />
-<view id="iso-view" viewBox="0 4560 48 48" />
-<view id="landscape-view" viewBox="0 4272 48 48" />
-<view id="leak_add-view" viewBox="0 4320 48 48" />
-<view id="leak_remove-view" viewBox="0 4368 48 48" />
-<view id="lens-view" viewBox="0 4416 48 48" />
-<view id="linked_camera-view" viewBox="0 4464 48 48" />
-<view id="looks_3-view" viewBox="0 4512 48 48" />
+<view id="iso-view" viewBox="0 4272 48 48" />
+<view id="landscape-view" viewBox="0 4320 48 48" />
+<view id="leak_add-view" viewBox="0 4368 48 48" />
+<view id="leak_remove-view" viewBox="0 4416 48 48" />
+<view id="lens-view" viewBox="0 4464 48 48" />
+<view id="linked_camera-view" viewBox="0 4512 48 48" />
+<view id="looks_3-view" viewBox="0 4560 48 48" />
 <view id="looks_4-view" viewBox="0 4608 48 48" />
 <view id="looks-view" viewBox="0 4656 48 48" />
 <view id="looks_5-view" viewBox="0 4704 48 48" />
@@ -259,8 +259,8 @@
 <view id="nature-view" viewBox="0 5136 48 48" />
 <view id="nature_people-view" viewBox="0 5184 48 48" />
 <view id="navigate_before-view" viewBox="0 5232 48 48" />
-<view id="navigate_next-view" viewBox="0 5328 48 48" />
-<view id="palette-view" viewBox="0 5280 48 48" />
+<view id="navigate_next-view" viewBox="0 5280 48 48" />
+<view id="palette-view" viewBox="0 5328 48 48" />
 <view id="panorama-view" viewBox="0 5376 48 48" />
 <view id="panorama_fish_eye-view" viewBox="0 5424 48 48" />
 <view id="panorama_horizontal-view" viewBox="0 5472 48 48" />
@@ -290,8 +290,8 @@
 <view id="timer-view" viewBox="0 6624 48 48" />
 <view id="timer_off-view" viewBox="0 6672 48 48" />
 <view id="tonality-view" viewBox="0 6720 48 48" />
-<view id="transform-view" viewBox="0 6816 48 48" />
-<view id="tune-view" viewBox="0 6768 48 48" />
+<view id="transform-view" viewBox="0 6768 48 48" />
+<view id="tune-view" viewBox="0 6816 48 48" />
 <view id="view_comfy-view" viewBox="0 6864 48 48" />
 <view id="view_compact-view" viewBox="0 6912 48 48" />
 <view id="wb_auto-view" viewBox="0 6960 48 48" />
@@ -316,8 +316,8 @@
 <use xlink:href="#brightness_5" width="48" height="48" x="0" y="672"></use>
 <use xlink:href="#brightness_6" width="48" height="48" x="0" y="720"></use>
 <use xlink:href="#brightness_7" width="48" height="48" x="0" y="768"></use>
-<use xlink:href="#broken_image" width="48" height="48" x="0" y="816"></use>
-<use xlink:href="#brush" width="48" height="48" x="0" y="864"></use>
+<use xlink:href="#broken_image" width="48" height="48" x="0" y="864"></use>
+<use xlink:href="#brush" width="48" height="48" x="0" y="816"></use>
 <use xlink:href="#burst_mode" width="48" height="48" x="0" y="912"></use>
 <use xlink:href="#camera" width="48" height="48" x="0" y="960"></use>
 <use xlink:href="#camera_alt" width="48" height="48" x="0" y="1008"></use>
@@ -332,8 +332,8 @@
 <use xlink:href="#compare" width="48" height="48" x="0" y="1440"></use>
 <use xlink:href="#control_point" width="48" height="48" x="0" y="1488"></use>
 <use xlink:href="#control_point_duplicate" width="48" height="48" x="0" y="1536"></use>
-<use xlink:href="#crop_16_9" width="48" height="48" x="0" y="1632"></use>
-<use xlink:href="#crop_3_2" width="48" height="48" x="0" y="1584"></use>
+<use xlink:href="#crop_16_9" width="48" height="48" x="0" y="1584"></use>
+<use xlink:href="#crop_3_2" width="48" height="48" x="0" y="1632"></use>
 <use xlink:href="#crop" width="48" height="48" x="0" y="1680"></use>
 <use xlink:href="#crop_5_4" width="48" height="48" x="0" y="1728"></use>
 <use xlink:href="#crop_7_5" width="48" height="48" x="0" y="1776"></use>
@@ -388,13 +388,13 @@
 <use xlink:href="#healing" width="48" height="48" x="0" y="4128"></use>
 <use xlink:href="#image" width="48" height="48" x="0" y="4176"></use>
 <use xlink:href="#image_aspect_ratio" width="48" height="48" x="0" y="4224"></use>
-<use xlink:href="#iso" width="48" height="48" x="0" y="4560"></use>
-<use xlink:href="#landscape" width="48" height="48" x="0" y="4272"></use>
-<use xlink:href="#leak_add" width="48" height="48" x="0" y="4320"></use>
-<use xlink:href="#leak_remove" width="48" height="48" x="0" y="4368"></use>
-<use xlink:href="#lens" width="48" height="48" x="0" y="4416"></use>
-<use xlink:href="#linked_camera" width="48" height="48" x="0" y="4464"></use>
-<use xlink:href="#looks_3" width="48" height="48" x="0" y="4512"></use>
+<use xlink:href="#iso" width="48" height="48" x="0" y="4272"></use>
+<use xlink:href="#landscape" width="48" height="48" x="0" y="4320"></use>
+<use xlink:href="#leak_add" width="48" height="48" x="0" y="4368"></use>
+<use xlink:href="#leak_remove" width="48" height="48" x="0" y="4416"></use>
+<use xlink:href="#lens" width="48" height="48" x="0" y="4464"></use>
+<use xlink:href="#linked_camera" width="48" height="48" x="0" y="4512"></use>
+<use xlink:href="#looks_3" width="48" height="48" x="0" y="4560"></use>
 <use xlink:href="#looks_4" width="48" height="48" x="0" y="4608"></use>
 <use xlink:href="#looks" width="48" height="48" x="0" y="4656"></use>
 <use xlink:href="#looks_5" width="48" height="48" x="0" y="4704"></use>
@@ -409,8 +409,8 @@
 <use xlink:href="#nature" width="48" height="48" x="0" y="5136"></use>
 <use xlink:href="#nature_people" width="48" height="48" x="0" y="5184"></use>
 <use xlink:href="#navigate_before" width="48" height="48" x="0" y="5232"></use>
-<use xlink:href="#navigate_next" width="48" height="48" x="0" y="5328"></use>
-<use xlink:href="#palette" width="48" height="48" x="0" y="5280"></use>
+<use xlink:href="#navigate_next" width="48" height="48" x="0" y="5280"></use>
+<use xlink:href="#palette" width="48" height="48" x="0" y="5328"></use>
 <use xlink:href="#panorama" width="48" height="48" x="0" y="5376"></use>
 <use xlink:href="#panorama_fish_eye" width="48" height="48" x="0" y="5424"></use>
 <use xlink:href="#panorama_horizontal" width="48" height="48" x="0" y="5472"></use>
@@ -440,8 +440,8 @@
 <use xlink:href="#timer" width="48" height="48" x="0" y="6624"></use>
 <use xlink:href="#timer_off" width="48" height="48" x="0" y="6672"></use>
 <use xlink:href="#tonality" width="48" height="48" x="0" y="6720"></use>
-<use xlink:href="#transform" width="48" height="48" x="0" y="6816"></use>
-<use xlink:href="#tune" width="48" height="48" x="0" y="6768"></use>
+<use xlink:href="#transform" width="48" height="48" x="0" y="6768"></use>
+<use xlink:href="#tune" width="48" height="48" x="0" y="6816"></use>
 <use xlink:href="#view_comfy" width="48" height="48" x="0" y="6864"></use>
 <use xlink:href="#view_compact" width="48" height="48" x="0" y="6912"></use>
 <use xlink:href="#wb_auto" width="48" height="48" x="0" y="6960"></use>
