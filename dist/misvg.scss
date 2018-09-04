@@ -1,5 +1,5 @@
-$svgpath = 'mdi.svg' !default
-$size = '48px' !default
+$svgpath: 'mdi.svg' !default
+$size: '48px' !default
 .mdsvg { background-color: transparent; fill: currentColor; width: $size; height: $size;}
 .mdsvg {
  &.3d_rotation{ background-image: url('#{$svgpath}#3d_rotation-view'); }

@@ -26,16 +26,16 @@
 <view id="casino-view" viewBox="0 240 48 48" />
 <view id="child_care-view" viewBox="0 288 48 48" />
 <view id="child_friendly-view" viewBox="0 336 48 48" />
-<view id="fitness_center-view" viewBox="0 672 48 48" />
-<view id="free_breakfast-view" viewBox="0 384 48 48" />
-<view id="golf_course-view" viewBox="0 624 48 48" />
-<view id="hot_tub-view" viewBox="0 432 48 48" />
-<view id="kitchen-view" viewBox="0 480 48 48" />
-<view id="pool-view" viewBox="0 528 48 48" />
-<view id="room_service-view" viewBox="0 576 48 48" />
+<view id="fitness_center-view" viewBox="0 384 48 48" />
+<view id="free_breakfast-view" viewBox="0 432 48 48" />
+<view id="golf_course-view" viewBox="0 480 48 48" />
+<view id="hot_tub-view" viewBox="0 528 48 48" />
+<view id="kitchen-view" viewBox="0 576 48 48" />
+<view id="pool-view" viewBox="0 624 48 48" />
+<view id="room_service-view" viewBox="0 672 48 48" />
 <view id="rv_hookup-view" viewBox="0 720 48 48" />
-<view id="smoke_free-view" viewBox="0 768 48 48" />
-<view id="smoking_rooms-view" viewBox="0 816 48 48" />
+<view id="smoke_free-view" viewBox="0 816 48 48" />
+<view id="smoking_rooms-view" viewBox="0 768 48 48" />
 <view id="spa-view" viewBox="0 864 48 48" />
 <use xlink:href="#ac_unit" width="48" height="48" x="0" y="0"></use>
 <use xlink:href="#airport_shuttle" width="48" height="48" x="0" y="48"></use>
@@ -45,15 +45,15 @@
 <use xlink:href="#casino" width="48" height="48" x="0" y="240"></use>
 <use xlink:href="#child_care" width="48" height="48" x="0" y="288"></use>
 <use xlink:href="#child_friendly" width="48" height="48" x="0" y="336"></use>
-<use xlink:href="#fitness_center" width="48" height="48" x="0" y="672"></use>
-<use xlink:href="#free_breakfast" width="48" height="48" x="0" y="384"></use>
-<use xlink:href="#golf_course" width="48" height="48" x="0" y="624"></use>
-<use xlink:href="#hot_tub" width="48" height="48" x="0" y="432"></use>
-<use xlink:href="#kitchen" width="48" height="48" x="0" y="480"></use>
-<use xlink:href="#pool" width="48" height="48" x="0" y="528"></use>
-<use xlink:href="#room_service" width="48" height="48" x="0" y="576"></use>
+<use xlink:href="#fitness_center" width="48" height="48" x="0" y="384"></use>
+<use xlink:href="#free_breakfast" width="48" height="48" x="0" y="432"></use>
+<use xlink:href="#golf_course" width="48" height="48" x="0" y="480"></use>
+<use xlink:href="#hot_tub" width="48" height="48" x="0" y="528"></use>
+<use xlink:href="#kitchen" width="48" height="48" x="0" y="576"></use>
+<use xlink:href="#pool" width="48" height="48" x="0" y="624"></use>
+<use xlink:href="#room_service" width="48" height="48" x="0" y="672"></use>
 <use xlink:href="#rv_hookup" width="48" height="48" x="0" y="720"></use>
-<use xlink:href="#smoke_free" width="48" height="48" x="0" y="768"></use>
-<use xlink:href="#smoking_rooms" width="48" height="48" x="0" y="816"></use>
+<use xlink:href="#smoke_free" width="48" height="48" x="0" y="816"></use>
+<use xlink:href="#smoking_rooms" width="48" height="48" x="0" y="768"></use>
 <use xlink:href="#spa" width="48" height="48" x="0" y="864"></use>
 </svg>

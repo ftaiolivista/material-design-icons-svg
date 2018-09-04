@@ -231,8 +231,8 @@ glob(
         )
             .then(symbols => {
                 return (
-                    '$svgpath = \'mdi.svg\' !default\n' +
-                    '$size = \'48px\' !default\n' +
+                    '$svgpath: \'mdi.svg\' !default\n' +
+                    '$size: \'48px\' !default\n' +
                     '.mdsvg { background-color: transparent; fill: currentColor; width: $size; height: $size;}\n' +
                     '.mdsvg {\n' +
                     symbols.join('') +

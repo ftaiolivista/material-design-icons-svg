@@ -29,15 +29,15 @@
 <symbol id="sentiment_very_satisfied"    viewBox="0 0 48 48"><path d="M23.99 4C12.94 4 4 12.95 4 24s8.94 20 19.99 20S44 35.05 44 24 35.04 4 23.99 4zM24 40c-8.84 0-16-7.16-16-16S15.16 8 24 8s16 7.16 16 16-7.16 16-16 16zm2-20.12L28.12 22l2.12-2.12L32.36 22l2.13-2.12-4.25-4.24zm-8.24 0L19.88 22 22 19.88l-4.24-4.24-4.25 4.24L15.64 22zM24 35c4.66 0 8.62-2.92 10.22-7H13.78c1.6 4.08 5.56 7 10.22 7z"/></symbol>
 <symbol id="share"    viewBox="0 0 48 48"><path d="M36 32.17c-1.52 0-2.89.59-3.93 1.54L17.82 25.4c.11-.45.18-.92.18-1.4s-.07-.95-.18-1.4l14.1-8.23c1.07 1 2.5 1.62 4.08 1.62 3.31 0 6-2.69 6-6s-2.69-6-6-6-6 2.69-6 6c0 .48.07.95.18 1.4l-14.1 8.23c-1.07-1-2.5-1.62-4.08-1.62-3.31 0-6 2.69-6 6s2.69 6 6 6c1.58 0 3.01-.62 4.08-1.62l14.25 8.31c-.1.42-.16.86-.16 1.31 0 3.22 2.61 5.83 5.83 5.83s5.83-2.61 5.83-5.83-2.61-5.83-5.83-5.83z"/></symbol>
 <symbol id="whatshot"    viewBox="0 0 48 48"><path d="M27 1.34s1.48 5.3 1.48 9.6c0 4.12-2.7 7.47-6.83 7.47s-7.25-3.34-7.25-7.47l.05-.72C10.43 15.03 8 21.23 8 28c0 8.84 7.16 16 16 16s16-7.16 16-16c0-10.79-5.19-20.41-13-26.66zM23.42 38c-3.56 0-6.45-2.81-6.45-6.28 0-3.25 2.09-5.53 5.63-6.24s7.2-2.41 9.23-5.15c.78 2.58 1.19 5.3 1.19 8.07 0 5.29-4.3 9.6-9.6 9.6z"/></symbol>
-<view id="cake-view" viewBox="0 48 48 48" />
-<view id="domain-view" viewBox="0 0 48 48" />
+<view id="cake-view" viewBox="0 0 48 48" />
+<view id="domain-view" viewBox="0 48 48 48" />
 <view id="group-view" viewBox="0 144 48 48" />
 <view id="group_add-view" viewBox="0 96 48 48" />
-<view id="location_city-view" viewBox="0 384 48 48" />
-<view id="mood-view" viewBox="0 192 48 48" />
-<view id="mood_bad-view" viewBox="0 240 48 48" />
+<view id="location_city-view" viewBox="0 192 48 48" />
+<view id="mood-view" viewBox="0 240 48 48" />
+<view id="mood_bad-view" viewBox="0 288 48 48" />
 <view id="notifications-view" viewBox="0 336 48 48" />
-<view id="notifications_active-view" viewBox="0 288 48 48" />
+<view id="notifications_active-view" viewBox="0 384 48 48" />
 <view id="notifications_none-view" viewBox="0 432 48 48" />
 <view id="notifications_off-view" viewBox="0 480 48 48" />
 <view id="notifications_paused-view" viewBox="0 528 48 48" />
@@ -49,25 +49,25 @@
 <view id="person_add-view" viewBox="0 816 48 48" />
 <view id="person_outline-view" viewBox="0 864 48 48" />
 <view id="plus_one-view" viewBox="0 912 48 48" />
-<view id="poll-view" viewBox="0 1056 48 48" />
-<view id="public-view" viewBox="0 1152 48 48" />
-<view id="school-view" viewBox="0 960 48 48" />
-<view id="sentiment_dissatisfied-view" viewBox="0 1008 48 48" />
-<view id="sentiment_neutral-view" viewBox="0 1104 48 48" />
+<view id="poll-view" viewBox="0 960 48 48" />
+<view id="public-view" viewBox="0 1008 48 48" />
+<view id="school-view" viewBox="0 1056 48 48" />
+<view id="sentiment_dissatisfied-view" viewBox="0 1104 48 48" />
+<view id="sentiment_neutral-view" viewBox="0 1152 48 48" />
 <view id="sentiment_satisfied-view" viewBox="0 1200 48 48" />
 <view id="sentiment_very_dissatisfied-view" viewBox="0 1248 48 48" />
-<view id="sentiment_very_satisfied-view" viewBox="0 1344 48 48" />
-<view id="share-view" viewBox="0 1296 48 48" />
+<view id="sentiment_very_satisfied-view" viewBox="0 1296 48 48" />
+<view id="share-view" viewBox="0 1344 48 48" />
 <view id="whatshot-view" viewBox="0 1392 48 48" />
-<use xlink:href="#cake" width="48" height="48" x="0" y="48"></use>
-<use xlink:href="#domain" width="48" height="48" x="0" y="0"></use>
+<use xlink:href="#cake" width="48" height="48" x="0" y="0"></use>
+<use xlink:href="#domain" width="48" height="48" x="0" y="48"></use>
 <use xlink:href="#group" width="48" height="48" x="0" y="144"></use>
 <use xlink:href="#group_add" width="48" height="48" x="0" y="96"></use>
-<use xlink:href="#location_city" width="48" height="48" x="0" y="384"></use>
-<use xlink:href="#mood" width="48" height="48" x="0" y="192"></use>
-<use xlink:href="#mood_bad" width="48" height="48" x="0" y="240"></use>
+<use xlink:href="#location_city" width="48" height="48" x="0" y="192"></use>
+<use xlink:href="#mood" width="48" height="48" x="0" y="240"></use>
+<use xlink:href="#mood_bad" width="48" height="48" x="0" y="288"></use>
 <use xlink:href="#notifications" width="48" height="48" x="0" y="336"></use>
-<use xlink:href="#notifications_active" width="48" height="48" x="0" y="288"></use>
+<use xlink:href="#notifications_active" width="48" height="48" x="0" y="384"></use>
 <use xlink:href="#notifications_none" width="48" height="48" x="0" y="432"></use>
 <use xlink:href="#notifications_off" width="48" height="48" x="0" y="480"></use>
 <use xlink:href="#notifications_paused" width="48" height="48" x="0" y="528"></use>
@@ -79,14 +79,14 @@
 <use xlink:href="#person_add" width="48" height="48" x="0" y="816"></use>
 <use xlink:href="#person_outline" width="48" height="48" x="0" y="864"></use>
 <use xlink:href="#plus_one" width="48" height="48" x="0" y="912"></use>
-<use xlink:href="#poll" width="48" height="48" x="0" y="1056"></use>
-<use xlink:href="#public" width="48" height="48" x="0" y="1152"></use>
-<use xlink:href="#school" width="48" height="48" x="0" y="960"></use>
-<use xlink:href="#sentiment_dissatisfied" width="48" height="48" x="0" y="1008"></use>
-<use xlink:href="#sentiment_neutral" width="48" height="48" x="0" y="1104"></use>
+<use xlink:href="#poll" width="48" height="48" x="0" y="960"></use>
+<use xlink:href="#public" width="48" height="48" x="0" y="1008"></use>
+<use xlink:href="#school" width="48" height="48" x="0" y="1056"></use>
+<use xlink:href="#sentiment_dissatisfied" width="48" height="48" x="0" y="1104"></use>
+<use xlink:href="#sentiment_neutral" width="48" height="48" x="0" y="1152"></use>
 <use xlink:href="#sentiment_satisfied" width="48" height="48" x="0" y="1200"></use>
 <use xlink:href="#sentiment_very_dissatisfied" width="48" height="48" x="0" y="1248"></use>
-<use xlink:href="#sentiment_very_satisfied" width="48" height="48" x="0" y="1344"></use>
-<use xlink:href="#share" width="48" height="48" x="0" y="1296"></use>
+<use xlink:href="#sentiment_very_satisfied" width="48" height="48" x="0" y="1296"></use>
+<use xlink:href="#share" width="48" height="48" x="0" y="1344"></use>
 <use xlink:href="#whatshot" width="48" height="48" x="0" y="1392"></use>
 </svg>

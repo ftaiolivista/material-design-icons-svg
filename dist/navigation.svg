@@ -31,10 +31,10 @@
 <view id="arrow_downward-view" viewBox="0 96 48 48" />
 <view id="arrow_drop_down-view" viewBox="0 144 48 48" />
 <view id="arrow_drop_down_circle-view" viewBox="0 192 48 48" />
-<view id="arrow_drop_up-view" viewBox="0 384 48 48" />
-<view id="arrow_forward-view" viewBox="0 240 48 48" />
-<view id="arrow_upward-view" viewBox="0 288 48 48" />
-<view id="cancel-view" viewBox="0 336 48 48" />
+<view id="arrow_drop_up-view" viewBox="0 240 48 48" />
+<view id="arrow_forward-view" viewBox="0 288 48 48" />
+<view id="arrow_upward-view" viewBox="0 336 48 48" />
+<view id="cancel-view" viewBox="0 384 48 48" />
 <view id="check-view" viewBox="0 432 48 48" />
 <view id="chevron_left-view" viewBox="0 480 48 48" />
 <view id="chevron_right-view" viewBox="0 528 48 48" />
@@ -47,10 +47,10 @@
 <view id="last_page-view" viewBox="0 864 48 48" />
 <view id="menu-view" viewBox="0 912 48 48" />
 <view id="more_horiz-view" viewBox="0 960 48 48" />
-<view id="more_vert-view" viewBox="0 1008 48 48" />
-<view id="refresh-view" viewBox="0 1056 48 48" />
+<view id="more_vert-view" viewBox="0 1152 48 48" />
+<view id="refresh-view" viewBox="0 1008 48 48" />
 <view id="subdirectory_arrow_left-view" viewBox="0 1104 48 48" />
-<view id="subdirectory_arrow_right-view" viewBox="0 1152 48 48" />
+<view id="subdirectory_arrow_right-view" viewBox="0 1056 48 48" />
 <view id="unfold_less-view" viewBox="0 1200 48 48" />
 <view id="unfold_more-view" viewBox="0 1248 48 48" />
 <use xlink:href="#apps" width="48" height="48" x="0" y="0"></use>
@@ -58,10 +58,10 @@
 <use xlink:href="#arrow_downward" width="48" height="48" x="0" y="96"></use>
 <use xlink:href="#arrow_drop_down" width="48" height="48" x="0" y="144"></use>
 <use xlink:href="#arrow_drop_down_circle" width="48" height="48" x="0" y="192"></use>
-<use xlink:href="#arrow_drop_up" width="48" height="48" x="0" y="384"></use>
-<use xlink:href="#arrow_forward" width="48" height="48" x="0" y="240"></use>
-<use xlink:href="#arrow_upward" width="48" height="48" x="0" y="288"></use>
-<use xlink:href="#cancel" width="48" height="48" x="0" y="336"></use>
+<use xlink:href="#arrow_drop_up" width="48" height="48" x="0" y="240"></use>
+<use xlink:href="#arrow_forward" width="48" height="48" x="0" y="288"></use>
+<use xlink:href="#arrow_upward" width="48" height="48" x="0" y="336"></use>
+<use xlink:href="#cancel" width="48" height="48" x="0" y="384"></use>
 <use xlink:href="#check" width="48" height="48" x="0" y="432"></use>
 <use xlink:href="#chevron_left" width="48" height="48" x="0" y="480"></use>
 <use xlink:href="#chevron_right" width="48" height="48" x="0" y="528"></use>
@@ -74,10 +74,10 @@
 <use xlink:href="#last_page" width="48" height="48" x="0" y="864"></use>
 <use xlink:href="#menu" width="48" height="48" x="0" y="912"></use>
 <use xlink:href="#more_horiz" width="48" height="48" x="0" y="960"></use>
-<use xlink:href="#more_vert" width="48" height="48" x="0" y="1008"></use>
-<use xlink:href="#refresh" width="48" height="48" x="0" y="1056"></use>
+<use xlink:href="#more_vert" width="48" height="48" x="0" y="1152"></use>
+<use xlink:href="#refresh" width="48" height="48" x="0" y="1008"></use>
 <use xlink:href="#subdirectory_arrow_left" width="48" height="48" x="0" y="1104"></use>
-<use xlink:href="#subdirectory_arrow_right" width="48" height="48" x="0" y="1152"></use>
+<use xlink:href="#subdirectory_arrow_right" width="48" height="48" x="0" y="1056"></use>
 <use xlink:href="#unfold_less" width="48" height="48" x="0" y="1200"></use>
 <use xlink:href="#unfold_more" width="48" height="48" x="0" y="1248"></use>
 </svg>
