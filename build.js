@@ -31,6 +31,7 @@ categories.then(categories => {
             //     input: './node_modules/material-design-icons/toggle/svg/production/ic_star_half_48px.svg'
             // ]
             const re = /ic_([a-zA-Z_0-9]+)_([0-9]+)px.svg/
+            let i = -1
             Promise.all(
                 files.map(filename => {
                     const m = filename.match(re)
@@ -43,13 +44,31 @@ categories.then(categories => {
                                 if (err) {
                                     reject(err)
                                 }
+                                i++
                                 resolve(
-                                    data
-                                        .replace(
-                                            /<svg /,
-                                            '<symbol id="' + m[1] + '" '
-                                        )
-                                        .replace('</svg>', '</symbol>')
+                                    {
+                                        symbol: data
+                                            .replace(
+                                                /<svg /,
+                                                '<symbol id="' + m[1] + '" '
+                                            )
+                                            .replace('</svg>', '</symbol>')
+                                            .replace(
+                                                'xmlns="http://www.w3.org/2000/svg"',
+                                                ''
+                                            )
+                                            .replace(
+                                                'width="48"',
+                                                ''
+                                            )
+                                            .replace(
+                                                'height="48"',
+                                                ''
+                                            )
+                                            .concat('\n'),
+                                        view: '<view id="' + m[1] + '-view" viewBox="0 '+i*48+' 48 48" />\n',
+                                        use: '<use xlink:href="#' + m[1] + '" width="48" height="48" x="0" y="'+i*48+'"></use>\n'
+                                    }
                                 )
                             })
                         })
@@ -58,9 +77,12 @@ categories.then(categories => {
             )
                 .then(symbols => {
                     return (
-                        '<svg display="none" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs>' +
-                        symbols.join('') +
-                        '</defs></svg>'
+                        '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">' +
+                        '<defs></defs>\n' +
+                        symbols.map(r => r.symbol).join('') +
+                        symbols.map(r => r.view).join('') +
+                        symbols.map(r => r.use).join('') +
+                        '</svg>'
                     )
                 })
                 .then(out => {
@@ -79,7 +101,6 @@ categories.then(categories => {
     })
 })
 
-// options is optional
 glob(
     './node_modules/material-design-icons/**/svg/production/*_48px.svg',
     {},
@@ -92,6 +113,7 @@ glob(
         //     input: './node_modules/material-design-icons/toggle/svg/production/ic_star_half_48px.svg'
         // ]
         const re = /ic_([a-zA-Z_0-9]+)_([0-9]+)px.svg/
+        let i = -1
         Promise.all(
             files.map(filename => {
                 const m = filename.match(re)
@@ -105,13 +127,31 @@ glob(
                             if (err) {
                                 reject(err)
                             }
+                            i++
                             resolve(
-                                data
-                                    .replace(
-                                        /<svg /,
-                                        '<symbol id="' + m[1] + '" '
-                                    )
-                                    .replace('</svg>', '</symbol>')
+                                {
+                                    symbol: data
+                                        .replace(
+                                            /<svg /,
+                                            '<symbol id="' + m[1] + '" '
+                                        )
+                                        .replace('</svg>', '</symbol>')
+                                        .replace(
+                                            'xmlns="http://www.w3.org/2000/svg"',
+                                            ''
+                                        )
+                                        .replace(
+                                            'width="48"',
+                                            ''
+                                        )
+                                        .replace(
+                                            'height="48"',
+                                            ''
+                                        )
+                                        .concat('\n'),
+                                    view: '<view id="' + m[1] + '-view" viewBox="0 '+i*48+' 48 48" />\n',
+                                    use: '<use xlink:href="#' + m[1] + '" width="48" height="48" x="0" y="'+i*48+'"></use>\n'
+                                }
                             )
                         })
                     })
@@ -120,9 +160,11 @@ glob(
         )
             .then(symbols => {
                 return (
-                    '<svg display="none" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs>' +
-                    symbols.join('')+
-                    '</defs></svg>'
+                    '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs></defs>' +
+                    symbols.map(r => r.symbol).join('') +
+                    symbols.map(r => r.view).join('') +
+                    symbols.map(r => r.use).join('') +
+                    '</svg>'
                 )
             })
             .then(out => {

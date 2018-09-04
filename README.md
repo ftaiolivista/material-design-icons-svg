@@ -32,6 +32,21 @@ Then inser the icon in your page (replace **menu** with your desired icon)
     <use xlink:href="material-design-icons.svg#menu"></use>
 </svg>
 ```
+### Using as CSS background
+To use icon ass css background add '-view' to fragment
+
+Example:
+```
+.breadcrumb-item + .breadcrumb-item::before {
+    content: '';
+    display: inline-block;
+    fill: currentColor;
+    color: #000;
+    width: 24px;
+    height: 24px;
+    background: url('material-design-icons.svg#chevron_right-view') no-repeat;
+}
+```
 
 ### Partial bundle
 
