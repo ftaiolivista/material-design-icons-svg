@@ -47,10 +47,10 @@
 <view id="last_page-view" viewBox="0 864 48 48" />
 <view id="menu-view" viewBox="0 912 48 48" />
 <view id="more_horiz-view" viewBox="0 960 48 48" />
-<view id="more_vert-view" viewBox="0 1152 48 48" />
-<view id="refresh-view" viewBox="0 1008 48 48" />
+<view id="more_vert-view" viewBox="0 1008 48 48" />
+<view id="refresh-view" viewBox="0 1056 48 48" />
 <view id="subdirectory_arrow_left-view" viewBox="0 1104 48 48" />
-<view id="subdirectory_arrow_right-view" viewBox="0 1056 48 48" />
+<view id="subdirectory_arrow_right-view" viewBox="0 1152 48 48" />
 <view id="unfold_less-view" viewBox="0 1200 48 48" />
 <view id="unfold_more-view" viewBox="0 1248 48 48" />
 <use xlink:href="#apps" width="48" height="48" x="0" y="0"></use>
@@ -74,10 +74,10 @@
 <use xlink:href="#last_page" width="48" height="48" x="0" y="864"></use>
 <use xlink:href="#menu" width="48" height="48" x="0" y="912"></use>
 <use xlink:href="#more_horiz" width="48" height="48" x="0" y="960"></use>
-<use xlink:href="#more_vert" width="48" height="48" x="0" y="1152"></use>
-<use xlink:href="#refresh" width="48" height="48" x="0" y="1008"></use>
+<use xlink:href="#more_vert" width="48" height="48" x="0" y="1008"></use>
+<use xlink:href="#refresh" width="48" height="48" x="0" y="1056"></use>
 <use xlink:href="#subdirectory_arrow_left" width="48" height="48" x="0" y="1104"></use>
-<use xlink:href="#subdirectory_arrow_right" width="48" height="48" x="0" y="1056"></use>
+<use xlink:href="#subdirectory_arrow_right" width="48" height="48" x="0" y="1152"></use>
 <use xlink:href="#unfold_less" width="48" height="48" x="0" y="1200"></use>
 <use xlink:href="#unfold_more" width="48" height="48" x="0" y="1248"></use>
 </svg>

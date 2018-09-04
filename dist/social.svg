@@ -31,8 +31,8 @@
 <symbol id="whatshot"    viewBox="0 0 48 48"><path d="M27 1.34s1.48 5.3 1.48 9.6c0 4.12-2.7 7.47-6.83 7.47s-7.25-3.34-7.25-7.47l.05-.72C10.43 15.03 8 21.23 8 28c0 8.84 7.16 16 16 16s16-7.16 16-16c0-10.79-5.19-20.41-13-26.66zM23.42 38c-3.56 0-6.45-2.81-6.45-6.28 0-3.25 2.09-5.53 5.63-6.24s7.2-2.41 9.23-5.15c.78 2.58 1.19 5.3 1.19 8.07 0 5.29-4.3 9.6-9.6 9.6z"/></symbol>
 <view id="cake-view" viewBox="0 0 48 48" />
 <view id="domain-view" viewBox="0 48 48 48" />
-<view id="group-view" viewBox="0 144 48 48" />
-<view id="group_add-view" viewBox="0 96 48 48" />
+<view id="group-view" viewBox="0 96 48 48" />
+<view id="group_add-view" viewBox="0 144 48 48" />
 <view id="location_city-view" viewBox="0 192 48 48" />
 <view id="mood-view" viewBox="0 240 48 48" />
 <view id="mood_bad-view" viewBox="0 288 48 48" />
@@ -61,8 +61,8 @@
 <view id="whatshot-view" viewBox="0 1392 48 48" />
 <use xlink:href="#cake" width="48" height="48" x="0" y="0"></use>
 <use xlink:href="#domain" width="48" height="48" x="0" y="48"></use>
-<use xlink:href="#group" width="48" height="48" x="0" y="144"></use>
-<use xlink:href="#group_add" width="48" height="48" x="0" y="96"></use>
+<use xlink:href="#group" width="48" height="48" x="0" y="96"></use>
+<use xlink:href="#group_add" width="48" height="48" x="0" y="144"></use>
 <use xlink:href="#location_city" width="48" height="48" x="0" y="192"></use>
 <use xlink:href="#mood" width="48" height="48" x="0" y="240"></use>
 <use xlink:href="#mood_bad" width="48" height="48" x="0" y="288"></use>

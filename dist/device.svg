@@ -80,14 +80,14 @@
 <symbol id="wifi_tethering"    viewBox="0 0 48 48"><path d="M24 22c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm12 4c0-6.63-5.37-12-12-12s-12 5.37-12 12c0 4.44 2.41 8.3 5.99 10.38l2.02-3.48C17.62 31.51 16 28.96 16 26c0-4.42 3.58-8 8-8s8 3.58 8 8c0 2.96-1.62 5.51-4.01 6.89l2.02 3.48C33.59 34.3 36 30.44 36 26zM24 6C12.95 6 4 14.95 4 26c0 7.39 4.02 13.83 9.99 17.29l2-3.46C11.22 37.07 8 31.91 8 26c0-8.84 7.16-16 16-16s16 7.16 16 16c0 5.91-3.22 11.07-7.99 13.84l2 3.46C39.98 39.83 44 33.39 44 26c0-11.05-8.96-20-20-20z"/></symbol>
 <view id="access_alarm-view" viewBox="0 0 48 48" />
 <view id="access_alarms-view" viewBox="0 48 48 48" />
-<view id="access_time-view" viewBox="0 96 48 48" />
+<view id="access_time-view" viewBox="0 192 48 48" />
 <view id="add_alarm-view" viewBox="0 144 48 48" />
-<view id="airplanemode_active-view" viewBox="0 192 48 48" />
-<view id="airplanemode_inactive-view" viewBox="0 432 48 48" />
-<view id="battery_20-view" viewBox="0 240 48 48" />
-<view id="battery_30-view" viewBox="0 288 48 48" />
-<view id="battery_50-view" viewBox="0 336 48 48" />
-<view id="battery_60-view" viewBox="0 384 48 48" />
+<view id="airplanemode_active-view" viewBox="0 96 48 48" />
+<view id="airplanemode_inactive-view" viewBox="0 240 48 48" />
+<view id="battery_20-view" viewBox="0 288 48 48" />
+<view id="battery_30-view" viewBox="0 336 48 48" />
+<view id="battery_50-view" viewBox="0 384 48 48" />
+<view id="battery_60-view" viewBox="0 432 48 48" />
 <view id="battery_80-view" viewBox="0 480 48 48" />
 <view id="battery_90-view" viewBox="0 528 48 48" />
 <view id="battery_alert-view" viewBox="0 576 48 48" />
@@ -95,15 +95,15 @@
 <view id="battery_charging_30-view" viewBox="0 672 48 48" />
 <view id="battery_charging_50-view" viewBox="0 720 48 48" />
 <view id="battery_charging_60-view" viewBox="0 768 48 48" />
-<view id="battery_charging_80-view" viewBox="0 864 48 48" />
-<view id="battery_charging_90-view" viewBox="0 816 48 48" />
+<view id="battery_charging_80-view" viewBox="0 816 48 48" />
+<view id="battery_charging_90-view" viewBox="0 864 48 48" />
 <view id="battery_charging_full-view" viewBox="0 912 48 48" />
 <view id="battery_full-view" viewBox="0 960 48 48" />
 <view id="battery_std-view" viewBox="0 1008 48 48" />
-<view id="battery_unknown-view" viewBox="0 1200 48 48" />
+<view id="battery_unknown-view" viewBox="0 1056 48 48" />
 <view id="bluetooth-view" viewBox="0 1104 48 48" />
-<view id="bluetooth_connected-view" viewBox="0 1056 48 48" />
-<view id="bluetooth_disabled-view" viewBox="0 1152 48 48" />
+<view id="bluetooth_connected-view" viewBox="0 1152 48 48" />
+<view id="bluetooth_disabled-view" viewBox="0 1200 48 48" />
 <view id="bluetooth_searching-view" viewBox="0 1248 48 48" />
 <view id="brightness_auto-view" viewBox="0 1296 48 48" />
 <view id="brightness_high-view" viewBox="0 1344 48 48" />
@@ -116,20 +116,20 @@
 <view id="gps_fixed-view" viewBox="0 1680 48 48" />
 <view id="gps_not_fixed-view" viewBox="0 1728 48 48" />
 <view id="gps_off-view" viewBox="0 1776 48 48" />
-<view id="graphic_eq-view" viewBox="0 1872 48 48" />
-<view id="location_disabled-view" viewBox="0 1824 48 48" />
-<view id="location_searching-view" viewBox="0 2112 48 48" />
-<view id="network_cell-view" viewBox="0 1920 48 48" />
-<view id="network_wifi-view" viewBox="0 1968 48 48" />
-<view id="nfc-view" viewBox="0 2016 48 48" />
-<view id="screen_lock_landscape-view" viewBox="0 2064 48 48" />
+<view id="graphic_eq-view" viewBox="0 1824 48 48" />
+<view id="location_disabled-view" viewBox="0 1872 48 48" />
+<view id="location_searching-view" viewBox="0 1920 48 48" />
+<view id="network_cell-view" viewBox="0 1968 48 48" />
+<view id="network_wifi-view" viewBox="0 2016 48 48" />
+<view id="nfc-view" viewBox="0 2064 48 48" />
+<view id="screen_lock_landscape-view" viewBox="0 2112 48 48" />
 <view id="screen_lock_portrait-view" viewBox="0 2160 48 48" />
 <view id="screen_lock_rotation-view" viewBox="0 2208 48 48" />
 <view id="screen_rotation-view" viewBox="0 2256 48 48" />
-<view id="sd_storage-view" viewBox="0 2448 48 48" />
+<view id="sd_storage-view" viewBox="0 2304 48 48" />
 <view id="settings_system_daydream-view" viewBox="0 2352 48 48" />
-<view id="signal_cellular_0_bar-view" viewBox="0 2304 48 48" />
-<view id="signal_cellular_1_bar-view" viewBox="0 2400 48 48" />
+<view id="signal_cellular_0_bar-view" viewBox="0 2400 48 48" />
+<view id="signal_cellular_1_bar-view" viewBox="0 2448 48 48" />
 <view id="signal_cellular_2_bar-view" viewBox="0 2496 48 48" />
 <view id="signal_cellular_3_bar-view" viewBox="0 2544 48 48" />
 <view id="signal_cellular_4_bar-view" viewBox="0 2592 48 48" />
@@ -159,14 +159,14 @@
 <view id="wifi_tethering-view" viewBox="0 3744 48 48" />
 <use xlink:href="#access_alarm" width="48" height="48" x="0" y="0"></use>
 <use xlink:href="#access_alarms" width="48" height="48" x="0" y="48"></use>
-<use xlink:href="#access_time" width="48" height="48" x="0" y="96"></use>
+<use xlink:href="#access_time" width="48" height="48" x="0" y="192"></use>
 <use xlink:href="#add_alarm" width="48" height="48" x="0" y="144"></use>
-<use xlink:href="#airplanemode_active" width="48" height="48" x="0" y="192"></use>
-<use xlink:href="#airplanemode_inactive" width="48" height="48" x="0" y="432"></use>
-<use xlink:href="#battery_20" width="48" height="48" x="0" y="240"></use>
-<use xlink:href="#battery_30" width="48" height="48" x="0" y="288"></use>
-<use xlink:href="#battery_50" width="48" height="48" x="0" y="336"></use>
-<use xlink:href="#battery_60" width="48" height="48" x="0" y="384"></use>
+<use xlink:href="#airplanemode_active" width="48" height="48" x="0" y="96"></use>
+<use xlink:href="#airplanemode_inactive" width="48" height="48" x="0" y="240"></use>
+<use xlink:href="#battery_20" width="48" height="48" x="0" y="288"></use>
+<use xlink:href="#battery_30" width="48" height="48" x="0" y="336"></use>
+<use xlink:href="#battery_50" width="48" height="48" x="0" y="384"></use>
+<use xlink:href="#battery_60" width="48" height="48" x="0" y="432"></use>
 <use xlink:href="#battery_80" width="48" height="48" x="0" y="480"></use>
 <use xlink:href="#battery_90" width="48" height="48" x="0" y="528"></use>
 <use xlink:href="#battery_alert" width="48" height="48" x="0" y="576"></use>
@@ -174,15 +174,15 @@
 <use xlink:href="#battery_charging_30" width="48" height="48" x="0" y="672"></use>
 <use xlink:href="#battery_charging_50" width="48" height="48" x="0" y="720"></use>
 <use xlink:href="#battery_charging_60" width="48" height="48" x="0" y="768"></use>
-<use xlink:href="#battery_charging_80" width="48" height="48" x="0" y="864"></use>
-<use xlink:href="#battery_charging_90" width="48" height="48" x="0" y="816"></use>
+<use xlink:href="#battery_charging_80" width="48" height="48" x="0" y="816"></use>
+<use xlink:href="#battery_charging_90" width="48" height="48" x="0" y="864"></use>
 <use xlink:href="#battery_charging_full" width="48" height="48" x="0" y="912"></use>
 <use xlink:href="#battery_full" width="48" height="48" x="0" y="960"></use>
 <use xlink:href="#battery_std" width="48" height="48" x="0" y="1008"></use>
-<use xlink:href="#battery_unknown" width="48" height="48" x="0" y="1200"></use>
+<use xlink:href="#battery_unknown" width="48" height="48" x="0" y="1056"></use>
 <use xlink:href="#bluetooth" width="48" height="48" x="0" y="1104"></use>
-<use xlink:href="#bluetooth_connected" width="48" height="48" x="0" y="1056"></use>
-<use xlink:href="#bluetooth_disabled" width="48" height="48" x="0" y="1152"></use>
+<use xlink:href="#bluetooth_connected" width="48" height="48" x="0" y="1152"></use>
+<use xlink:href="#bluetooth_disabled" width="48" height="48" x="0" y="1200"></use>
 <use xlink:href="#bluetooth_searching" width="48" height="48" x="0" y="1248"></use>
 <use xlink:href="#brightness_auto" width="48" height="48" x="0" y="1296"></use>
 <use xlink:href="#brightness_high" width="48" height="48" x="0" y="1344"></use>
@@ -195,20 +195,20 @@
 <use xlink:href="#gps_fixed" width="48" height="48" x="0" y="1680"></use>
 <use xlink:href="#gps_not_fixed" width="48" height="48" x="0" y="1728"></use>
 <use xlink:href="#gps_off" width="48" height="48" x="0" y="1776"></use>
-<use xlink:href="#graphic_eq" width="48" height="48" x="0" y="1872"></use>
-<use xlink:href="#location_disabled" width="48" height="48" x="0" y="1824"></use>
-<use xlink:href="#location_searching" width="48" height="48" x="0" y="2112"></use>
-<use xlink:href="#network_cell" width="48" height="48" x="0" y="1920"></use>
-<use xlink:href="#network_wifi" width="48" height="48" x="0" y="1968"></use>
-<use xlink:href="#nfc" width="48" height="48" x="0" y="2016"></use>
-<use xlink:href="#screen_lock_landscape" width="48" height="48" x="0" y="2064"></use>
+<use xlink:href="#graphic_eq" width="48" height="48" x="0" y="1824"></use>
+<use xlink:href="#location_disabled" width="48" height="48" x="0" y="1872"></use>
+<use xlink:href="#location_searching" width="48" height="48" x="0" y="1920"></use>
+<use xlink:href="#network_cell" width="48" height="48" x="0" y="1968"></use>
+<use xlink:href="#network_wifi" width="48" height="48" x="0" y="2016"></use>
+<use xlink:href="#nfc" width="48" height="48" x="0" y="2064"></use>
+<use xlink:href="#screen_lock_landscape" width="48" height="48" x="0" y="2112"></use>
 <use xlink:href="#screen_lock_portrait" width="48" height="48" x="0" y="2160"></use>
 <use xlink:href="#screen_lock_rotation" width="48" height="48" x="0" y="2208"></use>
 <use xlink:href="#screen_rotation" width="48" height="48" x="0" y="2256"></use>
-<use xlink:href="#sd_storage" width="48" height="48" x="0" y="2448"></use>
+<use xlink:href="#sd_storage" width="48" height="48" x="0" y="2304"></use>
 <use xlink:href="#settings_system_daydream" width="48" height="48" x="0" y="2352"></use>
-<use xlink:href="#signal_cellular_0_bar" width="48" height="48" x="0" y="2304"></use>
-<use xlink:href="#signal_cellular_1_bar" width="48" height="48" x="0" y="2400"></use>
+<use xlink:href="#signal_cellular_0_bar" width="48" height="48" x="0" y="2400"></use>
+<use xlink:href="#signal_cellular_1_bar" width="48" height="48" x="0" y="2448"></use>
 <use xlink:href="#signal_cellular_2_bar" width="48" height="48" x="0" y="2496"></use>
 <use xlink:href="#signal_cellular_3_bar" width="48" height="48" x="0" y="2544"></use>
 <use xlink:href="#signal_cellular_4_bar" width="48" height="48" x="0" y="2592"></use>

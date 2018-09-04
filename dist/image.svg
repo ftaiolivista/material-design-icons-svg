@@ -159,13 +159,13 @@
 <view id="blur_linear-view" viewBox="0 336 48 48" />
 <view id="blur_off-view" viewBox="0 384 48 48" />
 <view id="blur_on-view" viewBox="0 432 48 48" />
-<view id="brightness_1-view" viewBox="0 480 48 48" />
-<view id="brightness_2-view" viewBox="0 528 48 48" />
+<view id="brightness_1-view" viewBox="0 528 48 48" />
+<view id="brightness_2-view" viewBox="0 480 48 48" />
 <view id="brightness_3-view" viewBox="0 576 48 48" />
 <view id="brightness_4-view" viewBox="0 624 48 48" />
 <view id="brightness_5-view" viewBox="0 672 48 48" />
-<view id="brightness_6-view" viewBox="0 768 48 48" />
-<view id="brightness_7-view" viewBox="0 720 48 48" />
+<view id="brightness_6-view" viewBox="0 720 48 48" />
+<view id="brightness_7-view" viewBox="0 768 48 48" />
 <view id="broken_image-view" viewBox="0 816 48 48" />
 <view id="brush-view" viewBox="0 864 48 48" />
 <view id="burst_mode-view" viewBox="0 912 48 48" />
@@ -182,8 +182,8 @@
 <view id="compare-view" viewBox="0 1440 48 48" />
 <view id="control_point-view" viewBox="0 1488 48 48" />
 <view id="control_point_duplicate-view" viewBox="0 1536 48 48" />
-<view id="crop_16_9-view" viewBox="0 1632 48 48" />
-<view id="crop_3_2-view" viewBox="0 1584 48 48" />
+<view id="crop_16_9-view" viewBox="0 1584 48 48" />
+<view id="crop_3_2-view" viewBox="0 1632 48 48" />
 <view id="crop-view" viewBox="0 1680 48 48" />
 <view id="crop_5_4-view" viewBox="0 1728 48 48" />
 <view id="crop_7_5-view" viewBox="0 1776 48 48" />
@@ -268,8 +268,8 @@
 <view id="panorama_wide_angle-view" viewBox="0 5568 48 48" />
 <view id="photo-view" viewBox="0 5616 48 48" />
 <view id="photo_album-view" viewBox="0 5664 48 48" />
-<view id="photo_camera-view" viewBox="0 5712 48 48" />
-<view id="photo_filter-view" viewBox="0 5760 48 48" />
+<view id="photo_camera-view" viewBox="0 5760 48 48" />
+<view id="photo_filter-view" viewBox="0 5712 48 48" />
 <view id="photo_library-view" viewBox="0 5808 48 48" />
 <view id="picture_as_pdf-view" viewBox="0 5856 48 48" />
 <view id="portrait-view" viewBox="0 5904 48 48" />
@@ -309,13 +309,13 @@
 <use xlink:href="#blur_linear" width="48" height="48" x="0" y="336"></use>
 <use xlink:href="#blur_off" width="48" height="48" x="0" y="384"></use>
 <use xlink:href="#blur_on" width="48" height="48" x="0" y="432"></use>
-<use xlink:href="#brightness_1" width="48" height="48" x="0" y="480"></use>
-<use xlink:href="#brightness_2" width="48" height="48" x="0" y="528"></use>
+<use xlink:href="#brightness_1" width="48" height="48" x="0" y="528"></use>
+<use xlink:href="#brightness_2" width="48" height="48" x="0" y="480"></use>
 <use xlink:href="#brightness_3" width="48" height="48" x="0" y="576"></use>
 <use xlink:href="#brightness_4" width="48" height="48" x="0" y="624"></use>
 <use xlink:href="#brightness_5" width="48" height="48" x="0" y="672"></use>
-<use xlink:href="#brightness_6" width="48" height="48" x="0" y="768"></use>
-<use xlink:href="#brightness_7" width="48" height="48" x="0" y="720"></use>
+<use xlink:href="#brightness_6" width="48" height="48" x="0" y="720"></use>
+<use xlink:href="#brightness_7" width="48" height="48" x="0" y="768"></use>
 <use xlink:href="#broken_image" width="48" height="48" x="0" y="816"></use>
 <use xlink:href="#brush" width="48" height="48" x="0" y="864"></use>
 <use xlink:href="#burst_mode" width="48" height="48" x="0" y="912"></use>
@@ -332,8 +332,8 @@
 <use xlink:href="#compare" width="48" height="48" x="0" y="1440"></use>
 <use xlink:href="#control_point" width="48" height="48" x="0" y="1488"></use>
 <use xlink:href="#control_point_duplicate" width="48" height="48" x="0" y="1536"></use>
-<use xlink:href="#crop_16_9" width="48" height="48" x="0" y="1632"></use>
-<use xlink:href="#crop_3_2" width="48" height="48" x="0" y="1584"></use>
+<use xlink:href="#crop_16_9" width="48" height="48" x="0" y="1584"></use>
+<use xlink:href="#crop_3_2" width="48" height="48" x="0" y="1632"></use>
 <use xlink:href="#crop" width="48" height="48" x="0" y="1680"></use>
 <use xlink:href="#crop_5_4" width="48" height="48" x="0" y="1728"></use>
 <use xlink:href="#crop_7_5" width="48" height="48" x="0" y="1776"></use>
@@ -418,8 +418,8 @@
 <use xlink:href="#panorama_wide_angle" width="48" height="48" x="0" y="5568"></use>
 <use xlink:href="#photo" width="48" height="48" x="0" y="5616"></use>
 <use xlink:href="#photo_album" width="48" height="48" x="0" y="5664"></use>
-<use xlink:href="#photo_camera" width="48" height="48" x="0" y="5712"></use>
-<use xlink:href="#photo_filter" width="48" height="48" x="0" y="5760"></use>
+<use xlink:href="#photo_camera" width="48" height="48" x="0" y="5760"></use>
+<use xlink:href="#photo_filter" width="48" height="48" x="0" y="5712"></use>
 <use xlink:href="#photo_library" width="48" height="48" x="0" y="5808"></use>
 <use xlink:href="#picture_as_pdf" width="48" height="48" x="0" y="5856"></use>
 <use xlink:href="#portrait" width="48" height="48" x="0" y="5904"></use>

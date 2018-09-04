@@ -224,16 +224,16 @@ glob(
                     return Promise.resolve('')
                 } else {
                     return (
-                        ' &.' + m[1] + '{ background-image: url(\'#{$svgpath}#' + m[1] + '-view\'); }\n'
+                        ' &.' + m[1] + '{ background-image: url(\'#{$svgPath}#' + m[1] + '-view\'); }\n'
                     )
                 }
             })
         )
             .then(symbols => {
                 return (
-                    '$svgpath: \'mdi.svg\' !default\n' +
-                    '$size: \'48px\' !default\n' +
-                    '.mdsvg { background-color: transparent; fill: currentColor; width: $size; height: $size;}\n' +
+                    '$svgPath: \'mdi.svg\' !default\n' +
+                    '$svgSize: 48px !default\n' +
+                    '.mdsvg { font: 0/0 a; display: inline-block; vertical-align: inherit; background-color: transparent; fill: currentColor; width: $svgSize; height: $svgSize; line-height: $svgSize;}\n' +
                     '.mdsvg {\n' +
                     symbols.join('') +
                     '\n}\n'

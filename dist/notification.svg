@@ -57,11 +57,11 @@
 <view id="airline_seat_flat-view" viewBox="0 48 48 48" />
 <view id="airline_seat_flat_angled-view" viewBox="0 96 48 48" />
 <view id="airline_seat_individual_suite-view" viewBox="0 144 48 48" />
-<view id="airline_seat_legroom_extra-view" viewBox="0 240 48 48" />
-<view id="airline_seat_legroom_normal-view" viewBox="0 192 48 48" />
-<view id="airline_seat_legroom_reduced-view" viewBox="0 384 48 48" />
-<view id="airline_seat_recline_extra-view" viewBox="0 288 48 48" />
-<view id="airline_seat_recline_normal-view" viewBox="0 336 48 48" />
+<view id="airline_seat_legroom_extra-view" viewBox="0 192 48 48" />
+<view id="airline_seat_legroom_normal-view" viewBox="0 240 48 48" />
+<view id="airline_seat_legroom_reduced-view" viewBox="0 288 48 48" />
+<view id="airline_seat_recline_extra-view" viewBox="0 336 48 48" />
+<view id="airline_seat_recline_normal-view" viewBox="0 384 48 48" />
 <view id="bluetooth_audio-view" viewBox="0 432 48 48" />
 <view id="confirmation_number-view" viewBox="0 480 48 48" />
 <view id="disc_full-view" viewBox="0 528 48 48" />
@@ -72,8 +72,8 @@
 <view id="drive_eta-view" viewBox="0 768 48 48" />
 <view id="enhanced_encryption-view" viewBox="0 816 48 48" />
 <view id="event_available-view" viewBox="0 864 48 48" />
-<view id="event_busy-view" viewBox="0 912 48 48" />
-<view id="event_note-view" viewBox="0 960 48 48" />
+<view id="event_busy-view" viewBox="0 960 48 48" />
+<view id="event_note-view" viewBox="0 912 48 48" />
 <view id="folder_special-view" viewBox="0 1008 48 48" />
 <view id="live_tv-view" viewBox="0 1056 48 48" />
 <view id="mms-view" viewBox="0 1104 48 48" />
@@ -111,11 +111,11 @@
 <use xlink:href="#airline_seat_flat" width="48" height="48" x="0" y="48"></use>
 <use xlink:href="#airline_seat_flat_angled" width="48" height="48" x="0" y="96"></use>
 <use xlink:href="#airline_seat_individual_suite" width="48" height="48" x="0" y="144"></use>
-<use xlink:href="#airline_seat_legroom_extra" width="48" height="48" x="0" y="240"></use>
-<use xlink:href="#airline_seat_legroom_normal" width="48" height="48" x="0" y="192"></use>
-<use xlink:href="#airline_seat_legroom_reduced" width="48" height="48" x="0" y="384"></use>
-<use xlink:href="#airline_seat_recline_extra" width="48" height="48" x="0" y="288"></use>
-<use xlink:href="#airline_seat_recline_normal" width="48" height="48" x="0" y="336"></use>
+<use xlink:href="#airline_seat_legroom_extra" width="48" height="48" x="0" y="192"></use>
+<use xlink:href="#airline_seat_legroom_normal" width="48" height="48" x="0" y="240"></use>
+<use xlink:href="#airline_seat_legroom_reduced" width="48" height="48" x="0" y="288"></use>
+<use xlink:href="#airline_seat_recline_extra" width="48" height="48" x="0" y="336"></use>
+<use xlink:href="#airline_seat_recline_normal" width="48" height="48" x="0" y="384"></use>
 <use xlink:href="#bluetooth_audio" width="48" height="48" x="0" y="432"></use>
 <use xlink:href="#confirmation_number" width="48" height="48" x="0" y="480"></use>
 <use xlink:href="#disc_full" width="48" height="48" x="0" y="528"></use>
@@ -126,8 +126,8 @@
 <use xlink:href="#drive_eta" width="48" height="48" x="0" y="768"></use>
 <use xlink:href="#enhanced_encryption" width="48" height="48" x="0" y="816"></use>
 <use xlink:href="#event_available" width="48" height="48" x="0" y="864"></use>
-<use xlink:href="#event_busy" width="48" height="48" x="0" y="912"></use>
-<use xlink:href="#event_note" width="48" height="48" x="0" y="960"></use>
+<use xlink:href="#event_busy" width="48" height="48" x="0" y="960"></use>
+<use xlink:href="#event_note" width="48" height="48" x="0" y="912"></use>
 <use xlink:href="#folder_special" width="48" height="48" x="0" y="1008"></use>
 <use xlink:href="#live_tv" width="48" height="48" x="0" y="1056"></use>
 <use xlink:href="#mms" width="48" height="48" x="0" y="1104"></use>
