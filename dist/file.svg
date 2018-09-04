@@ -13,31 +13,31 @@
 <symbol id="folder"    viewBox="0 0 48 48"><path d="M20 8H8c-2.21 0-3.98 1.79-3.98 4L4 36c0 2.21 1.79 4 4 4h32c2.21 0 4-1.79 4-4V16c0-2.21-1.79-4-4-4H24l-4-4z"/></symbol>
 <symbol id="folder_open"    viewBox="0 0 48 48"><path d="M40 12H24l-4-4H8c-2.21 0-3.98 1.79-3.98 4L4 36c0 2.21 1.79 4 4 4h32c2.21 0 4-1.79 4-4V16c0-2.21-1.79-4-4-4zm0 24H8V16h32v20z"/></symbol>
 <symbol id="folder_shared"    viewBox="0 0 48 48"><path d="M40 12H24l-4-4H8c-2.21 0-3.98 1.79-3.98 4L4 36c0 2.21 1.79 4 4 4h32c2.21 0 4-1.79 4-4V16c0-2.21-1.79-4-4-4zm-10 6c2.21 0 4 1.79 4 4s-1.79 4-4 4-4-1.79-4-4 1.79-4 4-4zm8 16H22v-2c0-2.67 5.33-4 8-4s8 1.33 8 4v2z"/></symbol>
-<view id="attachment-view" viewBox="0 0 48 48" />
-<view id="cloud-view" viewBox="0 96 48 48" />
-<view id="cloud_circle-view" viewBox="0 48 48 48" />
-<view id="cloud_done-view" viewBox="0 144 48 48" />
+<view id="attachment-view" viewBox="0 48 48 48" />
+<view id="cloud-view" viewBox="0 0 48 48" />
+<view id="cloud_circle-view" viewBox="0 144 48 48" />
+<view id="cloud_done-view" viewBox="0 96 48 48" />
 <view id="cloud_download-view" viewBox="0 192 48 48" />
 <view id="cloud_off-view" viewBox="0 240 48 48" />
 <view id="cloud_queue-view" viewBox="0 288 48 48" />
 <view id="cloud_upload-view" viewBox="0 336 48 48" />
-<view id="create_new_folder-view" viewBox="0 384 48 48" />
-<view id="file_download-view" viewBox="0 432 48 48" />
-<view id="file_upload-view" viewBox="0 480 48 48" />
+<view id="create_new_folder-view" viewBox="0 432 48 48" />
+<view id="file_download-view" viewBox="0 480 48 48" />
+<view id="file_upload-view" viewBox="0 384 48 48" />
 <view id="folder-view" viewBox="0 576 48 48" />
 <view id="folder_open-view" viewBox="0 528 48 48" />
 <view id="folder_shared-view" viewBox="0 624 48 48" />
-<use xlink:href="#attachment" width="48" height="48" x="0" y="0"></use>
-<use xlink:href="#cloud" width="48" height="48" x="0" y="96"></use>
-<use xlink:href="#cloud_circle" width="48" height="48" x="0" y="48"></use>
-<use xlink:href="#cloud_done" width="48" height="48" x="0" y="144"></use>
+<use xlink:href="#attachment" width="48" height="48" x="0" y="48"></use>
+<use xlink:href="#cloud" width="48" height="48" x="0" y="0"></use>
+<use xlink:href="#cloud_circle" width="48" height="48" x="0" y="144"></use>
+<use xlink:href="#cloud_done" width="48" height="48" x="0" y="96"></use>
 <use xlink:href="#cloud_download" width="48" height="48" x="0" y="192"></use>
 <use xlink:href="#cloud_off" width="48" height="48" x="0" y="240"></use>
 <use xlink:href="#cloud_queue" width="48" height="48" x="0" y="288"></use>
 <use xlink:href="#cloud_upload" width="48" height="48" x="0" y="336"></use>
-<use xlink:href="#create_new_folder" width="48" height="48" x="0" y="384"></use>
-<use xlink:href="#file_download" width="48" height="48" x="0" y="432"></use>
-<use xlink:href="#file_upload" width="48" height="48" x="0" y="480"></use>
+<use xlink:href="#create_new_folder" width="48" height="48" x="0" y="432"></use>
+<use xlink:href="#file_download" width="48" height="48" x="0" y="480"></use>
+<use xlink:href="#file_upload" width="48" height="48" x="0" y="384"></use>
 <use xlink:href="#folder" width="48" height="48" x="0" y="576"></use>
 <use xlink:href="#folder_open" width="48" height="48" x="0" y="528"></use>
 <use xlink:href="#folder_shared" width="48" height="48" x="0" y="624"></use>

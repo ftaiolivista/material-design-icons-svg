@@ -48,11 +48,11 @@
 <symbol id="watch"    viewBox="0 0 48 48"><path d="M40 24c0-5.09-2.38-9.62-6.09-12.55L32 0H16l-1.91 11.45C10.38 14.38 8 18.91 8 24s2.38 9.62 6.09 12.55L16 48h16l1.91-11.45C37.62 33.62 40 29.09 40 24zm-28 0c0-6.63 5.37-12 12-12s12 5.37 12 12-5.37 12-12 12-12-5.37-12-12z"/></symbol>
 <view id="cast-view" viewBox="0 0 48 48" />
 <view id="cast_connected-view" viewBox="0 96 48 48" />
-<view id="computer-view" viewBox="0 144 48 48" />
-<view id="desktop_mac-view" viewBox="0 48 48 48" />
+<view id="computer-view" viewBox="0 48 48 48" />
+<view id="desktop_mac-view" viewBox="0 144 48 48" />
 <view id="desktop_windows-view" viewBox="0 192 48 48" />
-<view id="developer_board-view" viewBox="0 288 48 48" />
-<view id="devices_other-view" viewBox="0 240 48 48" />
+<view id="developer_board-view" viewBox="0 240 48 48" />
+<view id="devices_other-view" viewBox="0 288 48 48" />
 <view id="dock-view" viewBox="0 336 48 48" />
 <view id="gamepad-view" viewBox="0 384 48 48" />
 <view id="headset-view" viewBox="0 432 48 48" />
@@ -60,9 +60,9 @@
 <view id="keyboard-view" viewBox="0 528 48 48" />
 <view id="keyboard_arrow_down-view" viewBox="0 576 48 48" />
 <view id="keyboard_arrow_left-view" viewBox="0 624 48 48" />
-<view id="keyboard_arrow_right-view" viewBox="0 768 48 48" />
-<view id="keyboard_arrow_up-view" viewBox="0 672 48 48" />
-<view id="keyboard_backspace-view" viewBox="0 720 48 48" />
+<view id="keyboard_arrow_right-view" viewBox="0 672 48 48" />
+<view id="keyboard_arrow_up-view" viewBox="0 720 48 48" />
+<view id="keyboard_backspace-view" viewBox="0 768 48 48" />
 <view id="keyboard_capslock-view" viewBox="0 816 48 48" />
 <view id="keyboard_hide-view" viewBox="0 864 48 48" />
 <view id="keyboard_return-view" viewBox="0 912 48 48" />
@@ -74,11 +74,11 @@
 <view id="laptop_windows-view" viewBox="0 1200 48 48" />
 <view id="memory-view" viewBox="0 1248 48 48" />
 <view id="mouse-view" viewBox="0 1296 48 48" />
-<view id="phone_android-view" viewBox="0 1392 48 48" />
-<view id="phone_iphone-view" viewBox="0 1344 48 48" />
+<view id="phone_android-view" viewBox="0 1344 48 48" />
+<view id="phone_iphone-view" viewBox="0 1392 48 48" />
 <view id="phonelink-view" viewBox="0 1440 48 48" />
-<view id="phonelink_off-view" viewBox="0 1536 48 48" />
-<view id="power_input-view" viewBox="0 1488 48 48" />
+<view id="phonelink_off-view" viewBox="0 1488 48 48" />
+<view id="power_input-view" viewBox="0 1536 48 48" />
 <view id="router-view" viewBox="0 1584 48 48" />
 <view id="scanner-view" viewBox="0 1632 48 48" />
 <view id="security-view" viewBox="0 1680 48 48" />
@@ -95,11 +95,11 @@
 <view id="watch-view" viewBox="0 2208 48 48" />
 <use xlink:href="#cast" width="48" height="48" x="0" y="0"></use>
 <use xlink:href="#cast_connected" width="48" height="48" x="0" y="96"></use>
-<use xlink:href="#computer" width="48" height="48" x="0" y="144"></use>
-<use xlink:href="#desktop_mac" width="48" height="48" x="0" y="48"></use>
+<use xlink:href="#computer" width="48" height="48" x="0" y="48"></use>
+<use xlink:href="#desktop_mac" width="48" height="48" x="0" y="144"></use>
 <use xlink:href="#desktop_windows" width="48" height="48" x="0" y="192"></use>
-<use xlink:href="#developer_board" width="48" height="48" x="0" y="288"></use>
-<use xlink:href="#devices_other" width="48" height="48" x="0" y="240"></use>
+<use xlink:href="#developer_board" width="48" height="48" x="0" y="240"></use>
+<use xlink:href="#devices_other" width="48" height="48" x="0" y="288"></use>
 <use xlink:href="#dock" width="48" height="48" x="0" y="336"></use>
 <use xlink:href="#gamepad" width="48" height="48" x="0" y="384"></use>
 <use xlink:href="#headset" width="48" height="48" x="0" y="432"></use>
@@ -107,9 +107,9 @@
 <use xlink:href="#keyboard" width="48" height="48" x="0" y="528"></use>
 <use xlink:href="#keyboard_arrow_down" width="48" height="48" x="0" y="576"></use>
 <use xlink:href="#keyboard_arrow_left" width="48" height="48" x="0" y="624"></use>
-<use xlink:href="#keyboard_arrow_right" width="48" height="48" x="0" y="768"></use>
-<use xlink:href="#keyboard_arrow_up" width="48" height="48" x="0" y="672"></use>
-<use xlink:href="#keyboard_backspace" width="48" height="48" x="0" y="720"></use>
+<use xlink:href="#keyboard_arrow_right" width="48" height="48" x="0" y="672"></use>
+<use xlink:href="#keyboard_arrow_up" width="48" height="48" x="0" y="720"></use>
+<use xlink:href="#keyboard_backspace" width="48" height="48" x="0" y="768"></use>
 <use xlink:href="#keyboard_capslock" width="48" height="48" x="0" y="816"></use>
 <use xlink:href="#keyboard_hide" width="48" height="48" x="0" y="864"></use>
 <use xlink:href="#keyboard_return" width="48" height="48" x="0" y="912"></use>
@@ -121,11 +121,11 @@
 <use xlink:href="#laptop_windows" width="48" height="48" x="0" y="1200"></use>
 <use xlink:href="#memory" width="48" height="48" x="0" y="1248"></use>
 <use xlink:href="#mouse" width="48" height="48" x="0" y="1296"></use>
-<use xlink:href="#phone_android" width="48" height="48" x="0" y="1392"></use>
-<use xlink:href="#phone_iphone" width="48" height="48" x="0" y="1344"></use>
+<use xlink:href="#phone_android" width="48" height="48" x="0" y="1344"></use>
+<use xlink:href="#phone_iphone" width="48" height="48" x="0" y="1392"></use>
 <use xlink:href="#phonelink" width="48" height="48" x="0" y="1440"></use>
-<use xlink:href="#phonelink_off" width="48" height="48" x="0" y="1536"></use>
-<use xlink:href="#power_input" width="48" height="48" x="0" y="1488"></use>
+<use xlink:href="#phonelink_off" width="48" height="48" x="0" y="1488"></use>
+<use xlink:href="#power_input" width="48" height="48" x="0" y="1536"></use>
 <use xlink:href="#router" width="48" height="48" x="0" y="1584"></use>
 <use xlink:href="#scanner" width="48" height="48" x="0" y="1632"></use>
 <use xlink:href="#security" width="48" height="48" x="0" y="1680"></use>

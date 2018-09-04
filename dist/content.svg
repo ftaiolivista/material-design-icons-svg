@@ -43,11 +43,11 @@
 <view id="add_box-view" viewBox="0 48 48 48" />
 <view id="add_circle-view" viewBox="0 96 48 48" />
 <view id="add_circle_outline-view" viewBox="0 144 48 48" />
-<view id="archive-view" viewBox="0 192 48 48" />
-<view id="backspace-view" viewBox="0 240 48 48" />
-<view id="block-view" viewBox="0 288 48 48" />
-<view id="clear-view" viewBox="0 336 48 48" />
-<view id="content_copy-view" viewBox="0 384 48 48" />
+<view id="archive-view" viewBox="0 384 48 48" />
+<view id="backspace-view" viewBox="0 192 48 48" />
+<view id="block-view" viewBox="0 240 48 48" />
+<view id="clear-view" viewBox="0 288 48 48" />
+<view id="content_copy-view" viewBox="0 336 48 48" />
 <view id="content_cut-view" viewBox="0 432 48 48" />
 <view id="content_paste-view" viewBox="0 480 48 48" />
 <view id="create-view" viewBox="0 528 48 48" />
@@ -56,8 +56,8 @@
 <view id="filter_list-view" viewBox="0 672 48 48" />
 <view id="flag-view" viewBox="0 720 48 48" />
 <view id="forward-view" viewBox="0 768 48 48" />
-<view id="gesture-view" viewBox="0 864 48 48" />
-<view id="inbox-view" viewBox="0 816 48 48" />
+<view id="gesture-view" viewBox="0 816 48 48" />
+<view id="inbox-view" viewBox="0 864 48 48" />
 <view id="link-view" viewBox="0 912 48 48" />
 <view id="low_priority-view" viewBox="0 960 48 48" />
 <view id="mail-view" viewBox="0 1008 48 48" />
@@ -74,8 +74,8 @@
 <view id="save-view" viewBox="0 1536 48 48" />
 <view id="select_all-view" viewBox="0 1584 48 48" />
 <view id="send-view" viewBox="0 1632 48 48" />
-<view id="sort-view" viewBox="0 1680 48 48" />
-<view id="text_format-view" viewBox="0 1728 48 48" />
+<view id="sort-view" viewBox="0 1728 48 48" />
+<view id="text_format-view" viewBox="0 1680 48 48" />
 <view id="unarchive-view" viewBox="0 1776 48 48" />
 <view id="undo-view" viewBox="0 1824 48 48" />
 <view id="weekend-view" viewBox="0 1872 48 48" />
@@ -83,11 +83,11 @@
 <use xlink:href="#add_box" width="48" height="48" x="0" y="48"></use>
 <use xlink:href="#add_circle" width="48" height="48" x="0" y="96"></use>
 <use xlink:href="#add_circle_outline" width="48" height="48" x="0" y="144"></use>
-<use xlink:href="#archive" width="48" height="48" x="0" y="192"></use>
-<use xlink:href="#backspace" width="48" height="48" x="0" y="240"></use>
-<use xlink:href="#block" width="48" height="48" x="0" y="288"></use>
-<use xlink:href="#clear" width="48" height="48" x="0" y="336"></use>
-<use xlink:href="#content_copy" width="48" height="48" x="0" y="384"></use>
+<use xlink:href="#archive" width="48" height="48" x="0" y="384"></use>
+<use xlink:href="#backspace" width="48" height="48" x="0" y="192"></use>
+<use xlink:href="#block" width="48" height="48" x="0" y="240"></use>
+<use xlink:href="#clear" width="48" height="48" x="0" y="288"></use>
+<use xlink:href="#content_copy" width="48" height="48" x="0" y="336"></use>
 <use xlink:href="#content_cut" width="48" height="48" x="0" y="432"></use>
 <use xlink:href="#content_paste" width="48" height="48" x="0" y="480"></use>
 <use xlink:href="#create" width="48" height="48" x="0" y="528"></use>
@@ -96,8 +96,8 @@
 <use xlink:href="#filter_list" width="48" height="48" x="0" y="672"></use>
 <use xlink:href="#flag" width="48" height="48" x="0" y="720"></use>
 <use xlink:href="#forward" width="48" height="48" x="0" y="768"></use>
-<use xlink:href="#gesture" width="48" height="48" x="0" y="864"></use>
-<use xlink:href="#inbox" width="48" height="48" x="0" y="816"></use>
+<use xlink:href="#gesture" width="48" height="48" x="0" y="816"></use>
+<use xlink:href="#inbox" width="48" height="48" x="0" y="864"></use>
 <use xlink:href="#link" width="48" height="48" x="0" y="912"></use>
 <use xlink:href="#low_priority" width="48" height="48" x="0" y="960"></use>
 <use xlink:href="#mail" width="48" height="48" x="0" y="1008"></use>
@@ -114,8 +114,8 @@
 <use xlink:href="#save" width="48" height="48" x="0" y="1536"></use>
 <use xlink:href="#select_all" width="48" height="48" x="0" y="1584"></use>
 <use xlink:href="#send" width="48" height="48" x="0" y="1632"></use>
-<use xlink:href="#sort" width="48" height="48" x="0" y="1680"></use>
-<use xlink:href="#text_format" width="48" height="48" x="0" y="1728"></use>
+<use xlink:href="#sort" width="48" height="48" x="0" y="1728"></use>
+<use xlink:href="#text_format" width="48" height="48" x="0" y="1680"></use>
 <use xlink:href="#unarchive" width="48" height="48" x="0" y="1776"></use>
 <use xlink:href="#undo" width="48" height="48" x="0" y="1824"></use>
 <use xlink:href="#weekend" width="48" height="48" x="0" y="1872"></use>

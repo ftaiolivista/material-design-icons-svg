@@ -4,13 +4,13 @@
 <symbol id="radio_button_checked"    viewBox="0 0 48 48"><path d="M24 14c-5.52 0-10 4.48-10 10s4.48 10 10 10 10-4.48 10-10-4.48-10-10-10zm0-10C12.95 4 4 12.95 4 24s8.95 20 20 20 20-8.95 20-20S35.05 4 24 4zm0 36c-8.84 0-16-7.16-16-16S15.16 8 24 8s16 7.16 16 16-7.16 16-16 16z"/></symbol>
 <symbol id="radio_button_unchecked"    viewBox="0 0 48 48"><path d="M24 4C12.95 4 4 12.95 4 24s8.95 20 20 20 20-8.95 20-20S35.05 4 24 4zm0 36c-8.84 0-16-7.16-16-16S15.16 8 24 8s16 7.16 16 16-7.16 16-16 16z"/></symbol>
 <symbol id="star_half"    viewBox="0 0 48 48"><path fill="#010101" d="M44 18.48l-14.38-1.24L24 4l-5.62 13.26L4 18.48l10.92 9.46L11.64 42 24 34.54 36.36 42 33.1 27.94 44 18.48zM24 30.8V12.2l3.42 8.08 8.76.76-6.64 5.76 2 8.56L24 30.8z"/></symbol>
-<view id="check_box-view" viewBox="0 0 48 48" />
-<view id="check_box_outline_blank-view" viewBox="0 48 48 48" />
+<view id="check_box-view" viewBox="0 48 48 48" />
+<view id="check_box_outline_blank-view" viewBox="0 0 48 48" />
 <view id="radio_button_checked-view" viewBox="0 96 48 48" />
 <view id="radio_button_unchecked-view" viewBox="0 144 48 48" />
 <view id="star_half-view" viewBox="0 192 48 48" />
-<use xlink:href="#check_box" width="48" height="48" x="0" y="0"></use>
-<use xlink:href="#check_box_outline_blank" width="48" height="48" x="0" y="48"></use>
+<use xlink:href="#check_box" width="48" height="48" x="0" y="48"></use>
+<use xlink:href="#check_box_outline_blank" width="48" height="48" x="0" y="0"></use>
 <use xlink:href="#radio_button_checked" width="48" height="48" x="0" y="96"></use>
 <use xlink:href="#radio_button_unchecked" width="48" height="48" x="0" y="144"></use>
 <use xlink:href="#star_half" width="48" height="48" x="0" y="192"></use>

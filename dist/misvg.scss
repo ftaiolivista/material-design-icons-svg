@@ -1,6 +1,15 @@
-$svgPath: 'mdi.svg' !default
-$svgSize: 48px !default
-.mdsvg { font: 0/0 a; display: inline-block; vertical-align: inherit; background-color: transparent; fill: currentColor; width: $svgSize; height: $svgSize; line-height: $svgSize;}
+$svgPath: 'mdi.svg' !default;
+$svgSize: 48px !default;
+$svgPrimary: 0.87 !default;
+$svgSecondary: 0.54 !default;
+$svgDisabled: 0.37 !default;
+$svgDivider: 0.08 !default;
+.mdsvg { opacity: $svgPrimary, font: 0/0 a; display: inline-block; vertical-align: super; background-color: transparent; fill: currentColor; width: $svgSize; height: $svgSize; line-height: $svgSize;}
+.mdsvg.reverse { filter: invert(1) }
+.mdsvg.primary { opacity: $svgPrimary }
+.mdsvg.secondary { opacity: $svgSecondary }
+.mdsvg.disabled { opacity: $svgDisabled }
+.mdsvg.divider { opacity: $svgDivider }
 .mdsvg {
  &.3d_rotation{ background-image: url('#{$svgPath}#3d_rotation-view'); }
  &.accessibility{ background-image: url('#{$svgPath}#accessibility-view'); }
