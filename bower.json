@@ -2,8 +2,7 @@
   "name": "material-design-icons-svg",
   "description": "Material Design Icons (SVG for WEB) version",
   "main": [
-    "dist/misvg.scss",
-    "dist/mdi.svg"
+    "dist/misvg.scss"
   ],
   "authors": [
     "Fabiano Taioli <ftaioli@vista.it>"
