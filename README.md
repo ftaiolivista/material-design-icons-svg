@@ -1,4 +1,4 @@
-# Project Title
+# Material Design Icons (SVG for web)
 
 Material Design Icons, svg version, bundled and ready for web.
 
