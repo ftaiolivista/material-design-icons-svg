@@ -1,0 +1,25 @@
+{
+  "name": "material-design-icons-svg",
+  "description": "Material Design Icons (SVG for WEB) version",
+  "main": [
+    "dist/misvg.scss",
+    "dist/mdi.svg"
+  ],
+  "authors": [
+    "Fabiano Taioli <ftaioli@vista.it>"
+  ],
+  "license": "APACHE 2.0",
+  "keywords": [
+    "svg",
+    "material-design"
+  ],
+  "homepage": "https://github.com/ftaiolivista/material-design-icons-svg",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

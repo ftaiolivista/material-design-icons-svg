@@ -29,7 +29,7 @@ Then inser the icon in your page (replace **menu** with your desired icon)
 
 ```
 <svg class='mdi' role="img" title="menu">
-    <use xlink:href="material-design-icons.svg#menu"></use>
+    <use xlink:href="mdi.svg#menu"></use>
 </svg>
 ```
 ### Using as CSS background
@@ -44,13 +44,13 @@ Example:
     color: #000;
     width: 24px;
     height: 24px;
-    background: url('material-design-icons.svg#chevron_right-view') no-repeat;
+    background: url('mdi.svg#chevron_right-view') no-repeat;
 }
 ```
 
 ### Partial bundle
 
-SVG file material-design-icons.svg contains all icons. If your page use only icons from a determinate categories is more efficient to use the specific bundle:
+SVG file mdi.svg contains all icons. If your page use only icons from a determinate categories is more efficient to use the specific bundle:
 
 Es: use *maps.svg* for icon *directions_bike*
 ```

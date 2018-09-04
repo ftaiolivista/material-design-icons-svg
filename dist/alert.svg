@@ -5,10 +5,10 @@
 <symbol id="warning"    viewBox="0 0 48 48"><path d="M2 42h44L24 4 2 42zm24-6h-4v-4h4v4zm0-8h-4v-8h4v8z"/></symbol>
 <view id="add_alert-view" viewBox="0 0 48 48" />
 <view id="error-view" viewBox="0 48 48 48" />
-<view id="error_outline-view" viewBox="0 96 48 48" />
-<view id="warning-view" viewBox="0 144 48 48" />
+<view id="error_outline-view" viewBox="0 144 48 48" />
+<view id="warning-view" viewBox="0 96 48 48" />
 <use xlink:href="#add_alert" width="48" height="48" x="0" y="0"></use>
 <use xlink:href="#error" width="48" height="48" x="0" y="48"></use>
-<use xlink:href="#error_outline" width="48" height="48" x="0" y="96"></use>
-<use xlink:href="#warning" width="48" height="48" x="0" y="144"></use>
+<use xlink:href="#error_outline" width="48" height="48" x="0" y="144"></use>
+<use xlink:href="#warning" width="48" height="48" x="0" y="96"></use>
 </svg>

@@ -47,37 +47,37 @@
 <symbol id="vpn_key"    viewBox="0 0 48 48"><path d="M25.3 20c-1.65-4.66-6.08-8-11.3-8-6.63 0-12 5.37-12 12s5.37 12 12 12c5.22 0 9.65-3.34 11.3-8H34v8h8v-8h4v-8H25.3zM14 28c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4z"/></symbol>
 <view id="business-view" viewBox="0 0 48 48" />
 <view id="call-view" viewBox="0 48 48 48" />
-<view id="call_end-view" viewBox="0 96 48 48" />
-<view id="call_made-view" viewBox="0 144 48 48" />
-<view id="call_merge-view" viewBox="0 192 48 48" />
-<view id="call_missed-view" viewBox="0 240 48 48" />
-<view id="call_missed_outgoing-view" viewBox="0 336 48 48" />
-<view id="call_received-view" viewBox="0 288 48 48" />
-<view id="call_split-view" viewBox="0 432 48 48" />
-<view id="chat-view" viewBox="0 384 48 48" />
+<view id="call_end-view" viewBox="0 336 48 48" />
+<view id="call_made-view" viewBox="0 96 48 48" />
+<view id="call_merge-view" viewBox="0 288 48 48" />
+<view id="call_missed-view" viewBox="0 144 48 48" />
+<view id="call_missed_outgoing-view" viewBox="0 192 48 48" />
+<view id="call_received-view" viewBox="0 240 48 48" />
+<view id="call_split-view" viewBox="0 384 48 48" />
+<view id="chat-view" viewBox="0 432 48 48" />
 <view id="chat_bubble-view" viewBox="0 480 48 48" />
 <view id="chat_bubble_outline-view" viewBox="0 528 48 48" />
 <view id="clear_all-view" viewBox="0 576 48 48" />
 <view id="comment-view" viewBox="0 624 48 48" />
 <view id="contact_mail-view" viewBox="0 672 48 48" />
 <view id="contact_phone-view" viewBox="0 720 48 48" />
-<view id="contacts-view" viewBox="0 768 48 48" />
-<view id="dialer_sip-view" viewBox="0 816 48 48" />
-<view id="dialpad-view" viewBox="0 864 48 48" />
-<view id="email-view" viewBox="0 912 48 48" />
-<view id="forum-view" viewBox="0 960 48 48" />
-<view id="import_contacts-view" viewBox="0 1008 48 48" />
-<view id="import_export-view" viewBox="0 1056 48 48" />
+<view id="contacts-view" viewBox="0 816 48 48" />
+<view id="dialer_sip-view" viewBox="0 768 48 48" />
+<view id="dialpad-view" viewBox="0 1056 48 48" />
+<view id="email-view" viewBox="0 864 48 48" />
+<view id="forum-view" viewBox="0 912 48 48" />
+<view id="import_contacts-view" viewBox="0 960 48 48" />
+<view id="import_export-view" viewBox="0 1008 48 48" />
 <view id="invert_colors_off-view" viewBox="0 1104 48 48" />
 <view id="live_help-view" viewBox="0 1152 48 48" />
-<view id="location_off-view" viewBox="0 1248 48 48" />
-<view id="location_on-view" viewBox="0 1200 48 48" />
+<view id="location_off-view" viewBox="0 1200 48 48" />
+<view id="location_on-view" viewBox="0 1248 48 48" />
 <view id="mail_outline-view" viewBox="0 1296 48 48" />
 <view id="message-view" viewBox="0 1344 48 48" />
 <view id="no_sim-view" viewBox="0 1392 48 48" />
-<view id="phone-view" viewBox="0 1488 48 48" />
-<view id="portable_wifi_off-view" viewBox="0 1536 48 48" />
-<view id="present_to_all-view" viewBox="0 1440 48 48" />
+<view id="phone-view" viewBox="0 1440 48 48" />
+<view id="portable_wifi_off-view" viewBox="0 1488 48 48" />
+<view id="present_to_all-view" viewBox="0 1536 48 48" />
 <view id="ring_volume-view" viewBox="0 1584 48 48" />
 <view id="rss_feed-view" viewBox="0 1632 48 48" />
 <view id="screen_share-view" viewBox="0 1680 48 48" />
@@ -93,37 +93,37 @@
 <view id="vpn_key-view" viewBox="0 2160 48 48" />
 <use xlink:href="#business" width="48" height="48" x="0" y="0"></use>
 <use xlink:href="#call" width="48" height="48" x="0" y="48"></use>
-<use xlink:href="#call_end" width="48" height="48" x="0" y="96"></use>
-<use xlink:href="#call_made" width="48" height="48" x="0" y="144"></use>
-<use xlink:href="#call_merge" width="48" height="48" x="0" y="192"></use>
-<use xlink:href="#call_missed" width="48" height="48" x="0" y="240"></use>
-<use xlink:href="#call_missed_outgoing" width="48" height="48" x="0" y="336"></use>
-<use xlink:href="#call_received" width="48" height="48" x="0" y="288"></use>
-<use xlink:href="#call_split" width="48" height="48" x="0" y="432"></use>
-<use xlink:href="#chat" width="48" height="48" x="0" y="384"></use>
+<use xlink:href="#call_end" width="48" height="48" x="0" y="336"></use>
+<use xlink:href="#call_made" width="48" height="48" x="0" y="96"></use>
+<use xlink:href="#call_merge" width="48" height="48" x="0" y="288"></use>
+<use xlink:href="#call_missed" width="48" height="48" x="0" y="144"></use>
+<use xlink:href="#call_missed_outgoing" width="48" height="48" x="0" y="192"></use>
+<use xlink:href="#call_received" width="48" height="48" x="0" y="240"></use>
+<use xlink:href="#call_split" width="48" height="48" x="0" y="384"></use>
+<use xlink:href="#chat" width="48" height="48" x="0" y="432"></use>
 <use xlink:href="#chat_bubble" width="48" height="48" x="0" y="480"></use>
 <use xlink:href="#chat_bubble_outline" width="48" height="48" x="0" y="528"></use>
 <use xlink:href="#clear_all" width="48" height="48" x="0" y="576"></use>
 <use xlink:href="#comment" width="48" height="48" x="0" y="624"></use>
 <use xlink:href="#contact_mail" width="48" height="48" x="0" y="672"></use>
 <use xlink:href="#contact_phone" width="48" height="48" x="0" y="720"></use>
-<use xlink:href="#contacts" width="48" height="48" x="0" y="768"></use>
-<use xlink:href="#dialer_sip" width="48" height="48" x="0" y="816"></use>
-<use xlink:href="#dialpad" width="48" height="48" x="0" y="864"></use>
-<use xlink:href="#email" width="48" height="48" x="0" y="912"></use>
-<use xlink:href="#forum" width="48" height="48" x="0" y="960"></use>
-<use xlink:href="#import_contacts" width="48" height="48" x="0" y="1008"></use>
-<use xlink:href="#import_export" width="48" height="48" x="0" y="1056"></use>
+<use xlink:href="#contacts" width="48" height="48" x="0" y="816"></use>
+<use xlink:href="#dialer_sip" width="48" height="48" x="0" y="768"></use>
+<use xlink:href="#dialpad" width="48" height="48" x="0" y="1056"></use>
+<use xlink:href="#email" width="48" height="48" x="0" y="864"></use>
+<use xlink:href="#forum" width="48" height="48" x="0" y="912"></use>
+<use xlink:href="#import_contacts" width="48" height="48" x="0" y="960"></use>
+<use xlink:href="#import_export" width="48" height="48" x="0" y="1008"></use>
 <use xlink:href="#invert_colors_off" width="48" height="48" x="0" y="1104"></use>
 <use xlink:href="#live_help" width="48" height="48" x="0" y="1152"></use>
-<use xlink:href="#location_off" width="48" height="48" x="0" y="1248"></use>
-<use xlink:href="#location_on" width="48" height="48" x="0" y="1200"></use>
+<use xlink:href="#location_off" width="48" height="48" x="0" y="1200"></use>
+<use xlink:href="#location_on" width="48" height="48" x="0" y="1248"></use>
 <use xlink:href="#mail_outline" width="48" height="48" x="0" y="1296"></use>
 <use xlink:href="#message" width="48" height="48" x="0" y="1344"></use>
 <use xlink:href="#no_sim" width="48" height="48" x="0" y="1392"></use>
-<use xlink:href="#phone" width="48" height="48" x="0" y="1488"></use>
-<use xlink:href="#portable_wifi_off" width="48" height="48" x="0" y="1536"></use>
-<use xlink:href="#present_to_all" width="48" height="48" x="0" y="1440"></use>
+<use xlink:href="#phone" width="48" height="48" x="0" y="1440"></use>
+<use xlink:href="#portable_wifi_off" width="48" height="48" x="0" y="1488"></use>
+<use xlink:href="#present_to_all" width="48" height="48" x="0" y="1536"></use>
 <use xlink:href="#ring_volume" width="48" height="48" x="0" y="1584"></use>
 <use xlink:href="#rss_feed" width="48" height="48" x="0" y="1632"></use>
 <use xlink:href="#screen_share" width="48" height="48" x="0" y="1680"></use>

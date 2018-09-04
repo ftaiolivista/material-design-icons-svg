@@ -31,11 +31,11 @@
 <view id="arrow_downward-view" viewBox="0 96 48 48" />
 <view id="arrow_drop_down-view" viewBox="0 144 48 48" />
 <view id="arrow_drop_down_circle-view" viewBox="0 192 48 48" />
-<view id="arrow_drop_up-view" viewBox="0 432 48 48" />
-<view id="arrow_forward-view" viewBox="0 336 48 48" />
-<view id="arrow_upward-view" viewBox="0 240 48 48" />
-<view id="cancel-view" viewBox="0 288 48 48" />
-<view id="check-view" viewBox="0 384 48 48" />
+<view id="arrow_drop_up-view" viewBox="0 384 48 48" />
+<view id="arrow_forward-view" viewBox="0 240 48 48" />
+<view id="arrow_upward-view" viewBox="0 288 48 48" />
+<view id="cancel-view" viewBox="0 336 48 48" />
+<view id="check-view" viewBox="0 432 48 48" />
 <view id="chevron_left-view" viewBox="0 480 48 48" />
 <view id="chevron_right-view" viewBox="0 528 48 48" />
 <view id="close-view" viewBox="0 576 48 48" />
@@ -58,11 +58,11 @@
 <use xlink:href="#arrow_downward" width="48" height="48" x="0" y="96"></use>
 <use xlink:href="#arrow_drop_down" width="48" height="48" x="0" y="144"></use>
 <use xlink:href="#arrow_drop_down_circle" width="48" height="48" x="0" y="192"></use>
-<use xlink:href="#arrow_drop_up" width="48" height="48" x="0" y="432"></use>
-<use xlink:href="#arrow_forward" width="48" height="48" x="0" y="336"></use>
-<use xlink:href="#arrow_upward" width="48" height="48" x="0" y="240"></use>
-<use xlink:href="#cancel" width="48" height="48" x="0" y="288"></use>
-<use xlink:href="#check" width="48" height="48" x="0" y="384"></use>
+<use xlink:href="#arrow_drop_up" width="48" height="48" x="0" y="384"></use>
+<use xlink:href="#arrow_forward" width="48" height="48" x="0" y="240"></use>
+<use xlink:href="#arrow_upward" width="48" height="48" x="0" y="288"></use>
+<use xlink:href="#cancel" width="48" height="48" x="0" y="336"></use>
+<use xlink:href="#check" width="48" height="48" x="0" y="432"></use>
 <use xlink:href="#chevron_left" width="48" height="48" x="0" y="480"></use>
 <use xlink:href="#chevron_right" width="48" height="48" x="0" y="528"></use>
 <use xlink:href="#close" width="48" height="48" x="0" y="576"></use>

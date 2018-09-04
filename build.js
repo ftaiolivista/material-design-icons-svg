@@ -168,14 +168,14 @@ glob(
                 )
             })
             .then(out => {
-                fs.writeFile('./dist/material-design-icons.svg', out, function (
+                fs.writeFile('./dist/mdi.svg', out, function (
                     err
                 ) {
                     if (err) {
                         return console.log(err)
                     }
 
-                    console.log('./dist/material-design-icons.svg')
+                    console.log('./dist/mdi.svg')
                 })
             })
 
@@ -215,5 +215,41 @@ glob(
                 })
                 return out
             })
+
+        Promise.all(
+            files.map(filename => {
+                const m = filename.match(re)
+                if (!m) {
+                    console.log('cannot match ' + filename)
+                    return Promise.resolve('')
+                } else {
+                    return (
+                        ' &.' + m[1] + '{ background-image: url(\'#{$svgpath}#' + m[1] + '-view\'); }\n'
+                    )
+                }
+            })
+        )
+            .then(symbols => {
+                return (
+                    '$svgpath = \'mdi.svg\' !default\n' +
+                    '$size = \'48px\' !default\n' +
+                    '.mdsvg { background-color: transparent; fill: currentColor; width: $size; height: $size;}\n' +
+                    '.mdsvg {\n' +
+                    symbols.join('') +
+                    '\n}\n'
+                )
+            })
+            .then(out => {
+                fs.writeFile('./dist/misvg.scss', out, function (err) {
+                    if (err) {
+                        return console.log(err)
+                    }
+
+                    console.log('./dist/misvg.scss')
+                })
+                return out
+            })
+
+
     }
 )
